@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone ="yes"?>
+<colorBook>
+    <bookName>Couleurs standard topographique</bookName>
+    <colorPage>
+    <pageColor><RGB8><red>50</red><green>50</green><blue>50</blue></RGB8></pageColor>
+        <colorEntry><colorName>A_Eau potable_140</colorName><RGB8><red>0</red><green>191</green><blue>255</blue></RGB8></colorEntry>
+        <colorEntry><colorName>B_Eau pluviale_Bleu</colorName><RGB8><red>0</red><green>0</green><blue>255</blue></RGB8></colorEntry>
+        <colorEntry><colorName>C_Eau usée_36</colorName><RGB8><red>127</red><green>63</green><blue>0</blue></RGB8></colorEntry>
+        <colorEntry><colorName>D_Unitaire_54</colorName><RGB8><red>127</red><green>127</green><blue>0</blue></RGB8></colorEntry>
+    </colorPage>
+    <colorPage>
+    <pageColor><RGB8><red>100</red><green>100</green><blue>100</blue></RGB8></pageColor>    
+        <colorEntry><colorName>E_Chauffage_Magenta</colorName><RGB8><red>255</red><green>0</green><blue>255</blue></RGB8></colorEntry>
+        <colorEntry><colorName>F_Electricité_Rouge</colorName><RGB8><red>255</red><green>0</green><blue>0</blue></RGB8></colorEntry>
+        <colorEntry><colorName>G_Eclairage public_30</colorName><RGB8><red>255</red><green>63</green><blue>0</blue></RGB8></colorEntry>
+        <colorEntry><colorName>H_Signalisation verticale_20</colorName><RGB8><red>255</red><green>63</green><blue>0</blue></RGB8></colorEntry>
+        <colorEntry><colorName>I_Télécommunication_Vert</colorName><RGB8><red>0</red><green>255</green><blue>0</blue></RGB8></colorEntry>
+        <colorEntry><colorName>J_Gaz_40</colorName><RGB8><red>255</red><green>191</green><blue>0</blue></RGB8></colorEntry>
+        <colorEntry><colorName>K_Indéterminé_Noir</colorName><RGB8><red>0</red><green>0</green><blue>0</blue></RGB8></colorEntry>
+    </colorPage>
+    <colorPage>
+    <pageColor><RGB8><red>150</red><green>150</green><blue>150</blue></RGB8></pageColor>    
+        <colorEntry><colorName>L_Voirie_Noir</colorName><RGB8><red>0</red><green>0</green><blue>0</blue></RGB8></colorEntry>
+        <colorEntry><colorName>M_Marquage au sol_Noir</colorName><RGB8><red>0</red><green>0</green><blue>0</blue></RGB8></colorEntry>
+        <colorEntry><colorName>N_Mobilier urbain_251</colorName><RGB8><red>101</red><green>101</green><blue>101</blue></RGB8></colorEntry>
+        <colorEntry><colorName>O_Nivellement_102</colorName><RGB8><red>0</red><green>165</green><blue>41</blue></RGB8></colorEntry>
+        <colorEntry><colorName>P_Voie ferrée_15</colorName><RGB8><red>127</red><green>63</green><blue>63</blue></RGB8></colorEntry>
+        <colorEntry><colorName>Q_Transport_242</colorName><RGB8><red>165</red><green>0</green><blue>41</blue></RGB8></colorEntry>
+        <colorEntry><colorName>R_Bâti_201</colorName><RGB8><red>223</red><green>127</green><blue>255</blue></RGB8></colorEntry>
+     </colorPage>
+    <colorPage>
+    <pageColor><RGB8><red>200</red><green>200</green><blue>200</blue></RGB8></pageColor>       
+        <colorEntry><colorName>S_Clôture_212</colorName><RGB8><red>165</red><green>0</green><blue>165</blue></RGB8></colorEntry>
+        <colorEntry><colorName>T_Jardin_82</colorName><RGB8><red>41</red><green>165</green><blue>0</blue></RGB8></colorEntry>
+        <colorEntry><colorName>U_Aménagement sportif_110</colorName><RGB8><red>0</red><green>255</green><blue>127</blue></RGB8></colorEntry>
+        <colorEntry><colorName>V_Propriété_190</colorName><RGB8><red>127</red><green>0</green><blue>255</blue></RGB8></colorEntry>
+        <colorEntry><colorName>W_Hydrographie_150</colorName><RGB8><red>0</red><green>127</green><blue>255</blue></RGB8></colorEntry>
+        <colorEntry><colorName>X_Ouvrage maritime_Noir</colorName><RGB8><red>0</red><green>0</green><blue>0</blue></RGB8></colorEntry>
+        <colorEntry><colorName>Y_SIGT_193</colorName><RGB8><red>127</red><green>82</green><blue>165</blue></RGB8></colorEntry>
+        <colorEntry><colorName>Z_Habillage_Noir</colorName><RGB8><red>0</red><green>0</green><blue>0</blue></RGB8></colorEntry>
+    </colorPage>
+</colorBook>
