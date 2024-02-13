@@ -1,4 +1,4 @@
-# standard-topographique
+# Le standard topographique régional
 Spécifications du standard topographique régional.
 
 ## Contexte
