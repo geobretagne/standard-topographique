@@ -9,8 +9,8 @@ Ce collectif s’est fixé pour objectif d’accompagner et de faciliter la mise
 Ces acteurs ont élaboré un standard topographique régional pour la réalisation de prestations de topographie et de récolement de surfaces après travaux.
 Ce standard permet à tous les professionnels de structurer de façon homogène les données topographiques.
 Les enjeux se déclinent à plusieurs niveaux :
-• pour les acteurs publics : faciliter la mise en œuvre de leurs marchés publics en topographie, produire et diffuser des données grande échelle en répondant aux enjeux de l'application du fond de plan pour les échanges de données géographiques à grande échelle ou Plan de corps de rue simplifié (PCRS), lors de déclaration de travaux ou d’intention de commencement de travaux (DT/DICT) ; cela permet également dans le futur de mutualiser les outils et les pratiques avec des données interopérables car basées sur le même modèle ;
-• pour les prestataires de services (géomètres, bureaux d’étude, entreprise de travaux publics) : pouvoir sereinement investir sur des outils de conception et des méthodologies pratiqués partout en Bretagne et à terme plus largement à l’échelon national.
+- pour les acteurs publics : faciliter la mise en œuvre de leurs marchés publics en topographie, produire et diffuser des données grande échelle en répondant aux enjeux de l'application du fond de plan pour les échanges de données géographiques à grande échelle ou Plan de corps de rue simplifié (PCRS), lors de déclaration de travaux ou d’intention de commencement de travaux (DT/DICT) ; cela permet également dans le futur de mutualiser les outils et les pratiques avec des données interopérables car basées sur le même modèle ;
+- pour les prestataires de services (géomètres, bureaux d’étude, entreprise de travaux publics) : pouvoir sereinement investir sur des outils de conception et des méthodologies pratiqués partout en Bretagne et à terme plus largement à l’échelon national.
 
 ## Contributions
 N'hésitez pas à utiliser les Issues de ce Github pour toute expression de besoin, proposition d'amélioration du standard topographique, retour utilisateur, etc.
