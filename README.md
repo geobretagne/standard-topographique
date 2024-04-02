@@ -65,4 +65,4 @@ Le standard topographique évoluera en fonction des besoins de la communauté de
 Pour contacter le Pôle métier Référentiel topographique de GéoBretagne, n’hésitez pas à nous écrire à l’adresse suivante : xxx.
 
 ## Licence
-L'ensembles de productions du Pôle Métier Référentiel topographique sont sous Licence Ouverte Etalab 2.0
+L'ensembles des productions du Pôle Métier Référentiel topographique de GéoBretagne sont sous Licence Ouverte Etalab 2.0
