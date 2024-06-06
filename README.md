@@ -62,7 +62,7 @@ N'hésitez pas à utiliser les Issues de ce Github pour toute expression de beso
 Le standard topographique évoluera en fonction des besoins de la communauté des utlisateurs. Un comité technique sera organisé pour valider l'ensemble des demandes d'évolutions déposées sous la forme d'[issues](https://github.com/geobretagne/standard-topographique/issues) sur ce dépôt.
 
 ## Nous contacter
-Pour contacter le Pôle métier Référentiel topographique de GéoBretagne, n’hésitez pas à nous écrire à l’adresse suivante : xxx.
+Pour contacter le Pôle métier Référentiel topographique de GéoBretagne, n’hésitez pas à nous écrire à l’adresse suivante : geobretagne@bretagne.bzh
 
 ## Licence
 L'ensembles des productions du Pôle Métier Référentiel topographique de GéoBretagne sont sous Licence Ouverte Etalab 2.0
