@@ -9,12 +9,12 @@ assignees: ''
 
 **Présentation**
 
-Une courte et description de ce que vous voulez.
+Une courte description de ce que vous voulez.
 
 **Description fonctionnelle**
 
-La modification du standard attendue.
+La modification attendue du standard (objet, nomenclature).
 
 **Description technique**
 
-Si lié à un outil, décrre les évolutions techniques proposées
+Si lié à un outil, décrire les évolutions techniques proposées
