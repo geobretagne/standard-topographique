@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Calque_1"
+   x="0px"
+   y="0px"
+   width="100.06046"
+   height="100"
+   viewBox="0 0 100.06046 100"
+   enable-background="new 0 0 128 128"
+   xml:space="preserve"
+   sodipodi:docname="AP_0010.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15" /><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="4"
+   inkscape:cx="59.875"
+   inkscape:cy="74.25"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Calque_1" />
+
+     <path
+   display="none"
+   fill="#ffffff"
+   stroke="#12809c"
+   stroke-width="3.685"
+   stroke-miterlimit="10"
+   d="m 19.401227,-21.657003 c -1.1,0.1 -27.6,0.4 -27.6,27.6 v 61.1 c 0,1.1 0.3,27.6 27.6,27.6 h 61.1 c 1.1,0 27.600003,-0.3 27.600003,-27.601 v -61.099 c -0.1,-1.2 -0.4,-27.5 -27.600003,-27.5 z"
+   id="path4" />
+
+
+
+<circle
+   style="fill:none;fill-opacity:1;stroke:#00bfff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+   id="path5038"
+   cx="50"
+   cy="50"
+   r="48.501423" /><path
+   style="fill:#00bfff;stroke-width:1;stroke-dasharray:none"
+   d="M 27,76.5 V 23.25"
+   id="path502" /><path
+   style="fill:none;stroke:#00bfff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+   d="M 32.727346,76.513414 V 23.236866 h 30.795308 v 14.257105"
+   id="path569" /><path
+   id="path1224"
+   style="fill:none;stroke:#00bfff;stroke-width:1;stroke-dasharray:none"
+   d="m 69.225718,53.055501 c 0,3.138033 -2.337859,5.681911 -5.221754,5.681911 -2.883895,0 -5.221754,-2.543878 -5.221754,-5.681911 0,-3.138032 3.304851,-7.786323 5.221754,-11.363822 2.047651,3.577499 5.221754,8.22579 5.221754,11.363822 z"
+   sodipodi:nodetypes="ssscs" /></svg>
