@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Calque_1"
+   x="0px"
+   y="0px"
+   width="100.06046"
+   height="100"
+   viewBox="0 0 100.06046 100"
+   enable-background="new 0 0 128 128"
+   xml:space="preserve"
+   sodipodi:docname="FP_0401.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15" /><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="5.656854"
+   inkscape:cx="58.689865"
+   inkscape:cy="53.386564"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Calque_1" />
+
+     <path
+   display="none"
+   fill="#ffffff"
+   stroke="#12809c"
+   stroke-width="3.685"
+   stroke-miterlimit="10"
+   d="m 19.401227,-21.657003 c -1.1,0.1 -27.6,0.4 -27.6,27.6 v 61.1 c 0,1.1 0.3,27.6 27.6,27.6 h 61.1 c 1.1,0 27.600003,-0.3 27.600003,-27.601 v -61.099 c -0.1,-1.2 -0.4,-27.5 -27.600003,-27.5 z"
+   id="path4" />
+
+
+
+<path
+   sodipodi:type="star"
+   style="fill:none;stroke:#ff0000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+   id="path7212"
+   inkscape:flatsided="true"
+   sodipodi:sides="8"
+   sodipodi:cx="13.258253"
+   sodipodi:cy="13.081476"
+   sodipodi:r1="47.403851"
+   sodipodi:r2="43.795448"
+   sodipodi:arg1="0.39020136"
+   sodipodi:arg2="0.78290045"
+   inkscape:rounded="0"
+   inkscape:randomized="0"
+   d="M 57.098874,31.112699 31.508253,56.831477 -4.7729698,56.922097 -30.491747,31.331477 -30.582368,-4.9497467 -4.9917473,-30.668524 31.289476,-30.759145 57.008253,-5.1685242 Z"
+   transform="matrix(1.0927464,0,0,1.0927224,35.512092,35.705605)" /><path
+   id="rect7266"
+   style="fill:#ff0000;stroke:none;stroke-width:2;stroke-linecap:butt"
+   d="M 46.235694,38.321772 50.030231,44.703574 75.842581,22.444202 51.564058,56.844849 47.456401,50.000027 20.154709,75.65503 Z"
+   sodipodi:nodetypes="ccccccc" /></svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Calque_1"
+   x="0px"
+   y="0px"
+   width="100.06046"
+   height="100"
+   viewBox="0 0 100.06046 100"
+   enable-background="new 0 0 128 128"
+   xml:space="preserve"
+   sodipodi:docname="BP_0091.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15" /><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="5.6568542"
+   inkscape:cx="99.436891"
+   inkscape:cy="57.098873"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="3832"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Calque_1" />
+
+     <path
+   display="none"
+   fill="#ffffff"
+   stroke="#12809c"
+   stroke-width="3.685"
+   stroke-miterlimit="10"
+   d="m 19.401227,-21.657003 c -1.1,0.1 -27.6,0.4 -27.6,27.6 v 61.1 c 0,1.1 0.3,27.6 27.6,27.6 h 61.1 c 1.1,0 27.600003,-0.3 27.600003,-27.601 v -61.099 c -0.1,-1.2 -0.4,-27.5 -27.600003,-27.5 z"
+   id="path4" />
+
+
+
+<path
+   id="rect5571"
+   style="fill:none;stroke:#0001fa;stroke-width:0.699471"
+   d="M 0.3497355,50.349735 H 99.650265 V 75 87.325132 99.650265 H 0.3497355 V 87.325132 75 Z"
+   sodipodi:nodetypes="ccccccccc" /><path
+   style="fill:#0001fa;fill-opacity:1;stroke:#0001fa;stroke-width:0.715678;stroke-dasharray:none;stroke-opacity:1"
+   id="path14173-2"
+   sodipodi:type="arc"
+   sodipodi:cx="50"
+   sodipodi:cy="109.41037"
+   sodipodi:rx="37.193054"
+   sodipodi:ry="28.560339"
+   sodipodi:start="3.4906585"
+   sodipodi:end="5.9341195"
+   sodipodi:arc-type="chord"
+   d="M 15.049961,99.642159 A 37.193054,28.560339 0 0 1 50,80.850031 37.193054,28.560339 0 0 1 84.950039,99.64216 Z"
+   sodipodi:open="true" /></svg>
