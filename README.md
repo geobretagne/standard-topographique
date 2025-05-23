@@ -40,7 +40,7 @@ Utiliser le standard topographique régional, c’est assurer des données pére
 
 Il est composé de
 - un cahier des charges des prescriptions topographiques et récolement de surfaces après travaux avec ses annexes : https://cms.geobretagne.fr/standard-topographique/cahier-des-prescriptions-topographiques
-dont la nomenclature des objets du standard : https://cms.geobretagne.fr/standard-topographique/nomenclature
+dont la nomenclature des objets du standard : https://cms.geobretagne.fr/standard-topographique/nomenclature ou dépôt github (https://github.com/geobretagne/standard-topographique/tree/main/nomenclature)
 - une notice / mémo pour les utilisateurs du cahier des charges : https://cms.geobretagne.fr/standard-topographique/notice-memo-accompagnement-du-cahier-des-charges
 - un outil de contrôle du standard : https://cms.geobretagne.fr/standard-topographique-regional/plugin-qgis
 - une foire aux questions (FAQ) : https://cms.geobretagne.fr/standard-topographique/faq
