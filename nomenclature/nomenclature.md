@@ -8,7 +8,7 @@ L'ensembles objets du standard sont détaillés ci-dessous par famille de thém
 * [F: électricité](#f-famille-electricite)
 * [G: éclairage public](#g-famille-eclairage-public)
 * [H: signalisation verticale](#h-famille-signalisation-verticale)
-* [I: télécommunication](#i-famille-telecommunication)
+* [I télécommunication](#i-famille-telecommunication)
 * [J: gaz](#j-famille-gaz)
 * [K: indéterminé](#k-famille-indetermine)
 * [L: voirie](#l-famille-voirie)
@@ -73,6 +73,8 @@ Néant
 | AP_0043 | Cône de réduction | Eau potable | EAUPO_SCT | Non concerné | ![AP_0043](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AP_0043.jpg) |
 | AP_0044 | Chambre rectangulaire | Eau potable | EAUPO_SCT | Non concerné | ![AP_0044](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AP_0044.jpg) |
 | AP_0045 | Citerneau circulaire | Eau potable | EAUPO_SCT | Non concerné | ![AP_0045](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AP_0045.jpg) |
+| AP_0046 | Extrémité de conduite | Eau potable | EAUPO_SCT | Non concerné | ![AP_0046](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AP_0046.jpg) |
+| AP_0047 | Changement de matériau | Eau potable | EAUPO_SCT | Non concerné | ![AP_0047](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AP_0047.jpg) |
 
 ## B: famille EAU PLUVIALE
 
