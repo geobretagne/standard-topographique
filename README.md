@@ -5,7 +5,7 @@ Spécifications du standard topographique régional.
 
 ## Contexte
 
-GéoBretagne anime un pôle métier dedédié à la donnée topographique (Pôle référentiel topographique) fédérant de nombreux acteurs publics en Bretagne au niveau des collectivités ou assimilées (communauté de communes, agglomérations et métropoles, région, syndicat d’énergie...). 
+GéoBretagne anime un pôle métier dédié à la donnée topographique (Pôle référentiel topographique) fédérant de nombreux acteurs publics en Bretagne au niveau des collectivités ou assimilées (communauté de communes, agglomérations et métropoles, région, syndicat d’énergie...). 
 Ce collectif s’est fixé pour objectif d’accompagner et de faciliter la mise en œuvre d'acquisition, de gestion et de contrôle des données à très grande échelle, les données topographiques.
 
 Ces acteurs ont élaboré un standard topographique régional pour la réalisation de prestations de topographie et de récolement de surfaces après travaux.
