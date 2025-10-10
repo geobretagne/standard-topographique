@@ -59,7 +59,7 @@ L'ensemble des fichiers gabarits sont disponibles dans le dossier nomenclature d
 N'hésitez pas à utiliser les Issues de ce Github pour toute expression de besoin, proposition d'amélioration du standard topographique, retour utilisateur, etc.
 
 ## Evolutions
-Le standard topographique évoluera en fonction des besoins de la communauté des utlisateurs. Un comité technique sera organisé pour valider l'ensemble des demandes d'évolutions déposées sous la forme d'[issues](https://github.com/geobretagne/standard-topographique/issues) sur ce dépôt.
+Le standard topographique évolue en fonction des besoins de la communauté des utlisateurs. Un comité technique est organisé pour valider l'ensemble des demandes d'évolutions déposées sous la forme d'[issues](https://github.com/geobretagne/standard-topographique/issues) sur ce dépôt.
 
 ## Nous contacter
 Pour contacter le Pôle métier Référentiel topographique de GéoBretagne, n’hésitez pas à nous écrire à l’adresse suivante : geobretagne@bretagne.bzh
