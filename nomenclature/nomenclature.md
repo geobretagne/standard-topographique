@@ -51,8 +51,8 @@ Néant
 | AP_0009 | Chambre de vannes | Eau potable | EAUPO_SCS | AffleurantSymbole | ![AP_0009](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0009.jpg) |
 | AP_0010 | Borne AEP | Eau potable | EAUPO_SCS | AffleurantSymbole | ![AP_0010](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0010.jpg) |
 | AP_0011 | Puits | Eau potable | EAUPO_SCS | AffleurantSymbole, AffleurantGeometrique | ![AP_0011](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0011.jpg) |
-| AP_0012 | Point de mesure (TN/GST) | Eau potable | EAUPO_SCI | PointLeve | ![AP_0012](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0012.jpg) |
-| AP_0013 | Altitude supplémentaire | Eau potable | EAUPO_SCI | PointLeve | ![AP_0013](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0013.jpg) |
+| AP_0012 | Point de mesure (TN/GST) | Eau potable | EAUPO_SCI | Non concerné | ![AP_0012](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0012.jpg) |
+| AP_0013 | Altitude supplémentaire | Eau potable | EAUPO_SCI | Non concerné | ![AP_0013](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0013.jpg) |
 | AP_0014 | Texte information | Eau potable | EAUPO_SCI | Non concerné | ![AP_0014](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0014.jpg) |
 | AP_0015 | Texte libre | Eau potable | EAUPO_SCI | HabillageTexte | ![AP_0015](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0015.jpg) |
 | AP_2000 | Forage, captage | Eau potable | EAUPO_SCS | AffleurantSymbole | ![AP_2000](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_2000.jpg) |
@@ -130,9 +130,9 @@ Néant
 | BP_0092 | Avaloir (tampon) | Eau pluviale | EAUPL_SCS | AffleurantSymbole | ![BP_0092](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0092.jpg) |
 | BP_0093 | Grille avaloir | Eau pluviale | EAUPL_SCS | AffleurantSymbole | ![BP_0093](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0093.jpg) |
 | BP_0094 | Armoire d'eau pluviale | Eau pluviale | EAUPL_SCS | AffleurantSymbole | ![BP_0094](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0094.jpg) |
-| BP_0095 | Fil d'eau supplémentaire | Eau pluviale | EAUPL_SCI | PointLeve | ![BP_0095](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0095.jpg) |
-| BP_0096 | Point de mesure (TN/GST) | Eau pluviale | EAUPL_SCI | PointLeve | ![BP_0096](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0096.jpg) |
-| BP_0097 | Altitude supplémentaire | Eau pluviale | EAUPL_SCI | PointLeve | ![BP_0097](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0097.jpg) |
+| BP_0095 | Fil d'eau supplémentaire | Eau pluviale | EAUPL_SCI | Non concerné | ![BP_0095](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0095.jpg) |
+| BP_0096 | Point de mesure (TN/GST) | Eau pluviale | EAUPL_SCI | Non concerné | ![BP_0096](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0096.jpg) |
+| BP_0097 | Altitude supplémentaire | Eau pluviale | EAUPL_SCI | Non concerné | ![BP_0097](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0097.jpg) |
 | BP_0098 | Texte information | Eau pluviale | EAUPL_SCI | Non concerné | ![BP_0098](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0098.jpg) |
 | BP_0099 | Texte libre | Eau pluviale | EAUPL_SCI | HabillageTexte | ![BP_0099](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_0099.jpg) |
 | BP_2051 | Cote regard EP (tampon, radier) | Eau pluviale | EAUPL_SCI | Non concerné | ![BP_2051](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BP_2051.jpg) |
@@ -156,6 +156,7 @@ Néant
 | BL_0105 | Fourreau en attente | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0105](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BL_0105.jpg) |
 | BL_0106 | Chambre de forme complexe | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0106](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BL_0106.jpg) |
 | BL_0107 | Ouvrage annexe souterrain | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0107](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BL_0107.jpg) |
+| BL_0108 | Noue | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0108](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/B_Eau_pluviale/BL_0108.jpg) |
 
 ### 4\. Objets ponctuels de sous-sol
 
@@ -198,8 +199,8 @@ Néant
 | CP_0165 | Trappe carrée d'eau usée | Eau usée | EAUUS_SCS | AffleurantSymbole | ![CP_0165](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/C_Eau_usee/CP_0165.jpg) |
 | CP_0166 | Trappe rectangulaire d'eau usée | Eau usée | EAUUS_SCS | AffleurantSymbole | ![CP_0166](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/C_Eau_usee/CP_0166.jpg) |
 | CP_0167 | Armoire d'eau usée | Eau usée | EAUUS_SCS | AffleurantSymbole | ![CP_0167](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/C_Eau_usee/CP_0167.jpg) |
-| CP_0168 | Point de mesure (TN/GST) | Eau usée | EAUUS_SCI | PointLeve | ![CP_0168](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/C_Eau_usee/CP_0168.jpg) |
-| CP_0169 | Altitude supplémentaire | Eau usée | EAUUS_SCI | PointLeve | ![CP_0169](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/C_Eau_usee/CP_0169.jpg) |
+| CP_0168 | Point de mesure (TN/GST) | Eau usée | EAUUS_SCI | Non concerné | ![CP_0168](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/C_Eau_usee/CP_0168.jpg) |
+| CP_0169 | Altitude supplémentaire | Eau usée | EAUUS_SCI | Non concerné | ![CP_0169](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/C_Eau_usee/CP_0169.jpg) |
 | CP_0170 | Texte information | Eau usée | EAUUS_SCI | Non concerné | ![CP_0170](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/C_Eau_usee/CP_0170.jpg) |
 | CP_0171 | Texte libre | Eau usée | EAUUS_SCI | HabillageTexte | ![CP_0171](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/C_Eau_usee/CP_0171.jpg) |
 | CP_2101 | Texte libre | Eau usée | EAUUS_SCI | HabillageTexte | ![CP_2101](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/C_Eau_usee/CP_2101.jpg) |
@@ -261,8 +262,8 @@ Néant
 | DP_0245 | Trappe carrée unitaire | Unitaire | UNITA_SCS | AffleurantSymbole | ![DP_0245](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/D_Unitaire/DP_0245.jpg) |
 | DP_0246 | Trappe rectangulaire unitaire | Unitaire | UNITA_SCS | AffleurantSymbole | ![DP_0246](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/D_Unitaire/DP_0246.jpg) |
 | DP_0247 | Armoire unitaire | Unitaire | UNITA_SCS | AffleurantSymbole | ![DP_0247](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/D_Unitaire/DP_0247.jpg) |
-| DP_0248 | Point de mesure (TN/GST) | Unitaire | UNITA_SCI | PointLeve | ![DP_0248](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/D_Unitaire/DP_0248.jpg) |
-| DP_0249 | Altitude supplémentaire | Unitaire | UNITA_SCI | PointLeve | ![DP_0249](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/D_Unitaire/DP_0249.jpg) |
+| DP_0248 | Point de mesure (TN/GST) | Unitaire | UNITA_SCI | Non concerné | ![DP_0248](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/D_Unitaire/DP_0248.jpg) |
+| DP_0249 | Altitude supplémentaire | Unitaire | UNITA_SCI | Non concerné | ![DP_0249](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/D_Unitaire/DP_0249.jpg) |
 | DP_0250 | Texte information | Unitaire | UNITA_SCI | Non concerné | ![DP_0250](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/D_Unitaire/DP_0250.jpg) |
 | DP_0251 | Texte libre | Unitaire | UNITA_SCI | HabillageTexte | ![DP_0251](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/D_Unitaire/DP_0251.jpg) |
 
@@ -305,8 +306,8 @@ Néant
 | EP_0322 | Tampon circulaire de chauffage | Chauffage | CHAUF_SCS | AffleurantSymbole | ![EP_0322](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/E_Chauffage/EP_0322.jpg) |
 | EP_0323 | Trappe rectangulaire de chauffage | Chauffage | CHAUF_SCS | AffleurantSymbole | ![EP_0323](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/E_Chauffage/EP_0323.jpg) |
 | EP_0324 | Tampon carré de chauffage | Chauffage | CHAUF_SCS | AffleurantSymbole | ![EP_0324](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/E_Chauffage/EP_0324.jpg) |
-| EP_0325 | Point de mesure (TN/GST) | Chauffage | CHAUF_SCI | PointLeve | ![EP_0325](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/E_Chauffage/EP_0325.jpg) |
-| EP_0326 | Altitude supplémentaire | Chauffage | CHAUF_SCI | PointLeve | ![EP_0326](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/E_Chauffage/EP_0326.jpg) |
+| EP_0325 | Point de mesure (TN/GST) | Chauffage | CHAUF_SCI | Non concerné | ![EP_0325](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/E_Chauffage/EP_0325.jpg) |
+| EP_0326 | Altitude supplémentaire | Chauffage | CHAUF_SCI | Non concerné | ![EP_0326](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/E_Chauffage/EP_0326.jpg) |
 | EP_0327 | Texte information | Chauffage | CHAUF_SCI | Non concerné | ![EP_0327](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/E_Chauffage/EP_0327.jpg) |
 | EP_0328 | Texte libre | Chauffage | CHAUF_SCI | HabillageTexte | ![EP_0328](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/E_Chauffage/EP_0328.jpg) |
 | EP_2201 | Symbole unité de production | Chauffage | CHAUF_SCI | Non concerné | ![EP_2201](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/E_Chauffage/EP_2201.jpg) |
@@ -363,8 +364,8 @@ Néant
 | FP_0407 | Pylône de ligne électrique | Electricité | ELECT_SCS | AffleurantSymbole | ![FP_0407](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/F_Electricite/FP_0407.jpg) |
 | FP_0408 | Transformateur électrique | Electricité | ELECT_SCS | AffleurantSymbole | ![FP_0408](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/F_Electricite/FP_0408.jpg) |
 | FP_0409 | Chambre électrique | Electricité | ELECT_SCS | AffleurantSymbole | ![FP_0409](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/F_Electricite/FP_0409.jpg) |
-| FP_0410 | Point de mesure (TN/GST) | Electricité | ELECT_SCI | PointLeve | ![FP_0410](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/F_Electricite/FP_0410.jpg) |
-| FP_0411 | Altitude supplémentaire | Electricité | ELECT_SCI | PointLeve | ![FP_0411](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/F_Electricite/FP_0411.jpg) |
+| FP_0410 | Point de mesure (TN/GST) | Electricité | ELECT_SCI | Non concerné | ![FP_0410](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/F_Electricite/FP_0410.jpg) |
+| FP_0411 | Altitude supplémentaire | Electricité | ELECT_SCI | Non concerné | ![FP_0411](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/F_Electricite/FP_0411.jpg) |
 | FP_0412 | Texte information | Electricité | ELECT_SCI | Non concerné | ![FP_0412](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/F_Electricite/FP_0412.jpg) |
 | FP_0413 | Texte libre | Electricité | ELECT_SCI | HabillageTexte | ![FP_0413](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/F_Electricite/FP_0413.jpg) |
 | FP_0414 | Repérage de réseau | Electricité | ELECT_SCI | Non concerné | ![FP_0414](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/F_Electricite/FP_0414.jpg) |
@@ -415,8 +416,8 @@ Néant
 | GP_0487 | Armoire d'éclairage public | Eclairage public | ECPUB_SCS | AffleurantSymbole | ![GP_0487](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/G_Eclairage_public/GP_0487.jpg) |
 | GP_0488 | Borne alimentation d'éclairage | Eclairage public | ECPUB_SCS | AffleurantSymbole | ![GP_0488](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/G_Eclairage_public/GP_0488.jpg) |
 | GP_0489 | Pylône d'éclairage | Eclairage public | ECPUB_SCS | AffleurantSymbole | ![GP_0489](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/G_Eclairage_public/GP_0489.jpg) |
-| GP_0490 | Point de mesure (TN/GST) | Eclairage public | ECPUB_SCI | PointLeve | ![GP_0490](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/G_Eclairage_public/GP_0490.jpg) |
-| GP_0491 | Altitude supplémentaire | Eclairage public | ECPUB_SCI | PointLeve | ![GP_0491](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/G_Eclairage_public/GP_0491.jpg) |
+| GP_0490 | Point de mesure (TN/GST) | Eclairage public | ECPUB_SCI | Non concerné | ![GP_0490](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/G_Eclairage_public/GP_0490.jpg) |
+| GP_0491 | Altitude supplémentaire | Eclairage public | ECPUB_SCI | Non concerné | ![GP_0491](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/G_Eclairage_public/GP_0491.jpg) |
 | GP_0492 | Texte information | Eclairage public | ECPUB_SCI | Non concerné | ![GP_0492](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/G_Eclairage_public/GP_0492.jpg) |
 | GP_0493 | Texte libre | Eclairage public | ECPUB_SCI | HabillageTexte | ![GP_0493](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/G_Eclairage_public/GP_0493.jpg) |
 
@@ -462,11 +463,11 @@ Néant
 | HP_0568 | Caméra de surveillance du trafic | Signalisation verticale | SIGNV_SCS | AffleurantSymbole | ![HP_0568](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0568.jpg) |
 | HP_0569 | Panneau de signalisation | Signalisation verticale | SIGNV_SCS | AffleurantSymbole | ![HP_0569](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0569.jpg) |
 | HP_0570 | Panneau de signalisation double | Signalisation verticale | SIGNV_SCS | AffleurantSymbole | ![HP_0570](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0570.jpg) |
-| HP_0571 | Point de mesure (TN/GST) | Signalisation verticale | SIGNV_SCI | PointLeve | ![HP_0571](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0571.jpg) |
-| HP_0572 | Altitude supplémentaire | Signalisation verticale | SIGNV_SCI | PointLeve | ![HP_0572](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0572.jpg) |
+| HP_0571 | Point de mesure (TN/GST) | Signalisation verticale | SIGNV_SCI | Non concerné | ![HP_0571](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0571.jpg) |
+| HP_0572 | Altitude supplémentaire | Signalisation verticale | SIGNV_SCI | Non concerné | ![HP_0572](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0572.jpg) |
 | HP_0573 | Texte information | Signalisation verticale | SIGNV_SCI | Non concerné | ![HP_0573](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0573.jpg) |
 | HP_0574 | Texte libre | Signalisation verticale | SIGNV_SCI | HabillageTexte | ![HP_0574](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0574.jpg) |
-| HP_0575 | Panneau à messages variables | Signalisation verticale | SIGNV_SCS | HabillageSymbole | ![HP_0575](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0575.jpg) |
+| HP_0575 | Panneau à messages variables | Signalisation verticale | SIGNV_SCS | AffleurantSymbole | ![HP_0575](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/H_Signalisation_verticale/HP_0575.jpg) |
 
 ### 3\. Objets linéraires de sous-sol
 
@@ -516,8 +517,8 @@ Néant
 | IP_0648 | Aération carrée télécom | Télécommunication | TELEC_SCS | AffleurantSymbole | ![IP_0648](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/I_Telecommunication/IP_0648.jpg) |
 | IP_0649 | Aération rectangle télécom | Télécommunication | TELEC_SCS | AffleurantSymbole | ![IP_0649](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/I_Telecommunication/IP_0649.jpg) |
 | IP_0650 | Boîte aux lettres | Télécommunication | TELEC_SCS | HabillagePoints | ![IP_0650](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/I_Telecommunication/IP_0650.jpg) |
-| IP_0651 | Point de mesure (TN/GST) | Télécommunication | TELEC_SCI | PointLeve | ![IP_0651](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/I_Telecommunication/IP_0651.jpg) |
-| IP_0652 | Altitude supplémentaire | Télécommunication | TELEC_SCI | PointLeve | ![IP_0652](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/I_Telecommunication/IP_0652.jpg) |
+| IP_0651 | Point de mesure (TN/GST) | Télécommunication | TELEC_SCI | Non concerné | ![IP_0651](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/I_Telecommunication/IP_0651.jpg) |
+| IP_0652 | Altitude supplémentaire | Télécommunication | TELEC_SCI | Non concerné | ![IP_0652](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/I_Telecommunication/IP_0652.jpg) |
 | IP_0653 | Texte information | Télécommunication | TELEC_SCI | Non concerné | ![IP_0653](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/I_Telecommunication/IP_0653.jpg) |
 | IP_0654 | Texte libre | Télécommunication | TELEC_SCI | HabillageTexte | ![IP_0654](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/I_Telecommunication/IP_0654.jpg) |
 
@@ -556,8 +557,8 @@ Néant
 | JP_0704 | Coffret mixte gaz/électricité | Gaz | GAZFL_SCS | AffleurantSymbole | ![JP_0704](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/J_Gaz/JP_0704.jpg) |
 | JP_0705 | Armoire gaz | Gaz | GAZFL_SCS | AffleurantSymbole | ![JP_0705](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/J_Gaz/JP_0705.jpg) |
 | JP_0706 | Trappe d'accès gaz | Gaz | GAZFL_SCS | AffleurantSymbole | ![JP_0706](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/J_Gaz/JP_0706.jpg) |
-| JP_0707 | Point de mesure (TN/GST) | Gaz | GAZFL_SCI | PointLeve | ![JP_0707](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/J_Gaz/JP_0707.jpg) |
-| JP_0708 | Génératrice supérieure de transport à lever | Gaz | GAZFL_SCI | PointLeve | ![JP_0708](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/J_Gaz/JP_0708.jpg) |
+| JP_0707 | Point de mesure (TN/GST) | Gaz | GAZFL_SCI | Non concerné | ![JP_0707](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/J_Gaz/JP_0707.jpg) |
+| JP_0708 | Génératrice supérieure de transport à lever | Gaz | GAZFL_SCI | Non concerné | ![JP_0708](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/J_Gaz/JP_0708.jpg) |
 | JP_0709 | Texte information | Gaz | GAZFL_SCI | Non concerné | ![JP_0709](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/J_Gaz/JP_0709.jpg) |
 | JP_0710 | Texte libre | Gaz | GAZFL_SCI | HabillageTexte | ![JP_0710](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/J_Gaz/JP_0710.jpg) |
 
@@ -778,8 +779,8 @@ Néant
 | QP_1045 | Aération rectangle | Transport | TRANS_SCS | AffleurantSymbole | ![QP_1045](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Q_Transport/QP_1045.jpg) |
 | QP_1046 | Plaque carrée transport urbain | Transport | TRANS_SCS | AffleurantSymbole | ![QP_1046](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Q_Transport/QP_1046.jpg) |
 | QP_1047 | Plaque rectangulaire transport urbain | Transport | TRANS_SCS | AffleurantSymbole | ![QP_1047](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Q_Transport/QP_1047.jpg) |
-| QP_1048 | Point de mesure (TN/GST) | Transport | TRANS_SCI | PointLeve | ![QP_1048](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Q_Transport/QP_1048.jpg) |
-| QP_1049 | Génératrice supérieure de transport à lever | Transport | TRANS_SCI | PointLeve | ![QP_1049](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Q_Transport/QP_1049.jpg) |
+| QP_1048 | Point de mesure (TN/GST) | Transport | TRANS_SCI | Non concerné | ![QP_1048](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Q_Transport/QP_1048.jpg) |
+| QP_1049 | Génératrice supérieure de transport à lever | Transport | TRANS_SCI | Non concerné | ![QP_1049](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Q_Transport/QP_1049.jpg) |
 | QP_1050 | Texte information | Transport | TRANS_SCI | Non concerné | ![QP_1050](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Q_Transport/QP_1050.jpg) |
 | QP_1051 | Texte libre | Transport | TRANS_SCI | HabillageTexte | ![QP_1051](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Q_Transport/QP_1051.jpg) |
 | QP_1052 | Feu clignotant | Transport | TRANS_SCS | HabillageSymbole | ![QP_1052](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Q_Transport/QP_1052.jpg) |
@@ -985,8 +986,8 @@ Néant
 
 | ID  | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
-| YP_1521 | Point topo | SIGT | SIGTO\_SCI, SIGTA\_SCI, SIGTM_SCI | PointLeve | ![YP_1521](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Y_SIGT/YP_1521.jpg) |
-| YP_2900 | Point topo | SIGT | SIGTO_SCI | PointLeve | ![YP_2900](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Y_SIGT/YP_2900.jpg) |
+| YP_1521 | Point topo | SIGT | SIGTA\_SCI, SIGTM_SCI | PointLeve | ![YP_1521](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Y_SIGT/YP_1521.jpg) |
+| YP_2900 | Point topo | SIGT | SIGTM_SCI | PointLeve | ![YP_2900](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Y_SIGT/YP_2900.jpg) |
 | YP_2903 | Clou d'arpentage | SIGT | SIGTR_SCS | HabillageSymbole | ![YP_2903](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Y_SIGT/YP_2903.jpg) |
 | YP_2904 | Spit, pointe | SIGT | SIGTR_SCS | HabillageSymbole | ![YP_2904](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Y_SIGT/YP_2904.jpg) |
 | YP_2905 | Borne | SIGT | SIGTR_SCS | HabillageSymbole | ![YP_2905](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/Y_SIGT/YP_2905.jpg) |
