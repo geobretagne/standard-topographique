@@ -857,9 +857,9 @@ Néant
 | TL_1183 | Haie | Jardin | JARDI_SCS | HabillageLigne | ![TL_1183](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/T_Jardin/TL_1183.jpg) |
 | TL_1184 | Zone boisée | Jardin | JARDI_SCS | HabillageLigne | ![TL_1184](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/T_Jardin/TL_1184.jpg) |
 | TL_1185 | Aire de jeux | Jardin | JARDI_SCS | HabillageLigne | ![TL_1185](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/T_Jardin/TL_1185.jpg) |
-| TL_2276 | Friche | Jardin | JARDI_SCS | HabillageLigne | ![TL_2276](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/T_Jardin/TL_2276.jpg) |
-| TL_2277 | Pelouse | Jardin | JARDI_SCS | HabillageEnveloppe | ![TL_2277](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/T_Jardin/TL_2277.jpg) |
-| TL_2280 | Massif | Jardin | JARDI_SCS | HabillageEnveloppe | ![TL_2280](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/T_Jardin/TL_2280.jpg) |
+| TL_2776 | Friche | Jardin | JARDI_SCS | HabillageLigne | ![TL_2776](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/T_Jardin/TL_2776.jpg) |
+| TL_2777 | Pelouse | Jardin | JARDI_SCS | HabillageEnveloppe | ![TL_2777](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/T_Jardin/TL_2777.jpg) |
+| TL_2780 | Massif | Jardin | JARDI_SCS | HabillageEnveloppe | ![TL_2780](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/T_Jardin/TL_2780.jpg) |
 
 ### 2\. Objets ponctuels de surface
 
