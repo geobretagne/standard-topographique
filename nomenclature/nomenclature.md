@@ -1,4 +1,4 @@
-L'ensembles objets du standard sont détaillés ci-dessous par famille de thématique :  
+L'ensembles objets du standard sont détaillés ci-dessous par famille de thématique :  
 
 * [A: eau potable](#a-famille-eau-potable)
 * [B: eau pluviale](#b-famille-eau-pluviale)
@@ -48,7 +48,7 @@ Néant
 | AP_0006 | Bouche incendie | Eau potable | EAUPO_SCS | AffleurantSymbole | ![AP_0006](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0006.jpg) |
 | AP_0007 | Massif incendie | Eau potable | EAUPO_SCS | AffleurantSymbole, AffleurantGeometrique | ![AP_0007](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0007.jpg) |
 | AP_0008 | Bouche incendie rectangulaire | Eau potable | EAUPO_SCS | AffleurantSymbole | ![AP_0008](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0008.jpg) |
-| AP_0009 | Chambre de vannes | Eau potable | EAUPO_SCS | AffleurantSymbole | ![AP_0009](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0009.jpg) |
+| AP_0009 | Regard rectangulaire | Eau potable | EAUPO_SCS | AffleurantSymbole | ![AP_0009](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0009.jpg) |
 | AP_0010 | Borne AEP | Eau potable | EAUPO_SCS | AffleurantSymbole | ![AP_0010](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0010.jpg) |
 | AP_0011 | Puits | Eau potable | EAUPO_SCS | AffleurantSymbole, AffleurantGeometrique | ![AP_0011](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0011.jpg) |
 | AP_0012 | Point de mesure (TN/GST) | Eau potable | EAUPO_SCI | Non concerné | ![AP_0012](https://raw.githubusercontent.com/geobretagne/standard-topographique/refs/heads/develop/nomenclature/img/A_Eau_potable/AP_0012.jpg) |
