@@ -773,10 +773,10 @@ Néant
 | ID  | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | QP_1041 | Abri bus | Transport | TRANS_SCS | HabillageSymbole | ![QP_1041](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1041.jpg) |
-| QP_1042 | Distributeur de titres | Transport | TRANS_SCS | AffleurantSymbole | ![QP_1042](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1042.jpg) |
-| QP_1043 | Poteau d'arrêt de bus | Transport | TRANS_SCS | AffleurantSymbole | ![QP_1043](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1043.jpg) |
-| QP_1044 | Aération carrée | Transport | TRANS_SCS | AffleurantSymbole | ![QP_1044](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1044.jpg) |
-| QP_1045 | Aération rectangle | Transport | TRANS_SCS | AffleurantSymbole | ![QP_1045](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1045.jpg) |
+| QP_1042 | Distributeur de titres | Transport | TRANS_SCS | HabillageSymbole | ![QP_1042](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1042.jpg) |
+| QP_1043 | Poteau d'arrêt de bus | Transport | TRANS_SCS | HabillageSymbole | ![QP_1043](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1043.jpg) |
+| QP_1044 | Aération carrée | Transport | TRANS_SCS | HabillageSymbole | ![QP_1044](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1044.jpg) |
+| QP_1045 | Aération rectangle | Transport | TRANS_SCS | HabillageSymbole | ![QP_1045](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1045.jpg) |
 | QP_1046 | Plaque carrée transport urbain | Transport | TRANS_SCS | AffleurantSymbole | ![QP_1046](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1046.jpg) |
 | QP_1047 | Plaque rectangulaire transport urbain | Transport | TRANS_SCS | AffleurantSymbole | ![QP_1047](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1047.jpg) |
 | QP_1048 | Point de mesure (TN/GST) | Transport | TRANS_SCI | Non concerné | ![QP_1048](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1048.jpg) |
