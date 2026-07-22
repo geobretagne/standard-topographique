@@ -111,6 +111,7 @@ Néant
 | BL_0066 | Busage fossé rectiligne | Eau pluviale | EAUPL_SCS | HabillageLigne | ![BL_0066](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0066.jpg) |
 | BL_0067 | Départ de busage | Eau pluviale | EAUPL_SCS | HabillageLigne | ![BL_0067](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0067.jpg) |
 | BL_0068 | Gargouille | Eau pluviale | EAUPL_SCS | AffleurantGeometrique | ![BL_0068](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0068.jpg) |
+| BL_0069 | Noue | Eau pluviale | EAUPL_SCS  | HabillageLigne | ![BL_0069](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0069.jpg) |
 
 ### 2\. Objets ponctuels de surface
 
@@ -156,7 +157,6 @@ Néant
 | BL_0105 | Fourreau en attente | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0105](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0105.jpg) |
 | BL_0106 | Chambre de forme complexe | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0106](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0106.jpg) |
 | BL_0107 | Ouvrage annexe souterrain | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0107](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0107.jpg) |
-| BL_0108 | Noue | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0108](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0108.jpg) |
 
 ### 4\. Objets ponctuels de sous-sol
 
@@ -805,7 +805,7 @@ Néant
 | RL_1108 | Croisillon bâtiment léger | Bâti | BATIH_SCS | HabillageEnveloppe | ![RL_1108](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RL_1108.jpg) |
 | RL_1109 | Rampe d'accès | Bâti | BATIM_SCS | MarcheEscalier | ![RL_1109](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RL_1109.jpg) |
 | RL_1110 | Escalier complexe | Bâti | BATIM_SCS | MarcheEscalier | ![RL_1110](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RL_1110.jpg) |
-| RL_1111 | Soubassement | Bâti | BATIH_SCS | ProeminenceBati | ![RL_1111](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RL_1111.jpg) |
+| RL_1111 | Soubassement | Bâti | BATIM_SCS | ProeminenceBati | ![RL_1111](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RL_1111.jpg) |
 
 ### 2\. Objets ponctuels de surface
 
