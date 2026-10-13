@@ -822,7 +822,7 @@ Néant
 | RP_1129 | Ventilation rectangle | Bâti | BATIM_SCS | AffleurantSymbole | ![RP_1129](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RP_1129.jpg) |
 | RP_1130 | Texte libre | Bâti | BATIM_SCI | HabillageTexte | ![RP_1130](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RP_1130.jpg) |
 | RP_2726 | Calvaire | Bâti | BATIM_SCS | HabillageSymbole | ![RP_2726](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RP_2726.jpg) |
-| RP_2726 | Croix | Bâti | BATIM_SCS | HabillageSymbole | ![RP_2727](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RP_2727.jpg) |
+| RP_2727 | Croix | Bâti | BATIM_SCS | HabillageSymbole | ![RP_2727](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RP_2727.jpg) |
 ## S: famille CLOTURE
 
 ### 1\. Objets linéraires de surface
