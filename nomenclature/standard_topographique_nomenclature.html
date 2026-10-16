@@ -5,41 +5,50 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Nomenclature du standard topographique</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-<style>body{padding:1.5rem} .family{margin:1.5rem 0;padding:1rem;border:1px solid #ddd;border-radius:.35rem} .family h2{padding:.6rem;color:#fff;background:#00bfff;font-size:1.4rem} .category{margin:1.2rem 0;border-left:5px solid #00bfff;padding-left:1rem} .category h3{color:#008fc0;font-size:1.15rem} table{font-size:.95rem} td img{max-height:70px;max-width:180px;object-fit:contain}</style>
+<style>
+:root { --family-a: #00BFFF; --family-b: #0000FF; --family-c: #7F3F00; --family-d: #999900; --family-e: #FF00FF; --family-f: #FF0000; --family-g: #FF7F00; --family-h: #FF3F00; --family-i: #00FF00; --family-j: #FFBF00; --family-k: #000000; --family-l: #000000; --family-m: #000000; --family-n: #5B5B5B; --family-o: #00CC33; --family-p: #994C4C; --family-q: #CC0033; --family-r: #DF7FFF; --family-s: #CC00CC; --family-t: #33CC00; --family-u: #00FF7F; --family-v: #7F00FF; --family-w: #007FFF; --family-x: #000000; --family-y: #9966CC; --family-z: #000000; }
+body { padding: 1.5rem; }
+.family { --family-color: var(--family-a, #00bfff); margin: 1.5rem 0; padding: 1rem; border: 1px solid var(--family-color); border-radius: .35rem; }
+.family h2 { padding: .6rem; color: #fff; background-color: var(--family-color); font-size: 1.4rem; }
+.toc-family { color: var(--family-color); }
+.category { margin: 1.2rem 0; border-left: 5px solid var(--family-color); padding-left: 1rem; }
+.category h3 { color: var(--family-color); font-size: 1.15rem; }
+table { font-size: .95rem; } td img { max-height: 70px; max-width: 180px; object-fit: contain; }
+</style>
 </head><body>
 <h1>Nomenclature du standard topographique</h1>
 <p>Document généré automatiquement à partir du fichier csv du standard hébergé sur Grist.</p>
 <p>L’ensemble des objets du standard est détaillé ci-dessous par famille thématique.</p>
 <nav class="mb-4"><h2>Sommaire</h2><ul>
-<li><a href="#a-famille-eau-potable">A: famille EAU POTABLE</a></li>
-<li><a href="#b-famille-eau-pluviale">B: famille EAU PLUVIALE</a></li>
-<li><a href="#c-famille-eau-usee">C: famille EAU USÉE</a></li>
-<li><a href="#d-famille-unitaire">D: famille UNITAIRE</a></li>
-<li><a href="#e-famille-chauffage">E: famille CHAUFFAGE</a></li>
-<li><a href="#f-famille-electricite">F: famille ELECTRICITÉ</a></li>
-<li><a href="#g-famille-eclairage-public">G: famille ECLAIRAGE PUBLIC</a></li>
-<li><a href="#h-famille-signalisation-verticale">H: famille SIGNALISATION VERTICALE</a></li>
-<li><a href="#i-famille-telecommunication">I: famille TÉLÉCOMMUNICATION</a></li>
-<li><a href="#j-famille-gaz">J: famille GAZ</a></li>
-<li><a href="#k-famille-indetermine">K: famille INDÉTERMINÉ</a></li>
-<li><a href="#l-famille-voirie">L: famille VOIRIE</a></li>
-<li><a href="#m-famille-marquage-au-sol">M: famille MARQUAGE AU SOL</a></li>
-<li><a href="#n-famille-mobilier-urbain">N: famille MOBILIER URBAIN</a></li>
-<li><a href="#o-famille-nivellement">O: famille NIVELLEMENT</a></li>
-<li><a href="#p-famille-voie-ferree">P: famille VOIE FERRÉE</a></li>
-<li><a href="#q-famille-transport">Q: famille TRANSPORT</a></li>
-<li><a href="#r-famille-bati">R: famille BÂTI</a></li>
-<li><a href="#s-famille-cloture">S: famille CLÔTURE</a></li>
-<li><a href="#t-famille-jardin">T: famille JARDIN</a></li>
-<li><a href="#u-famille-amenagement-sportif">U: famille AMÉNAGEMENT SPORTIF</a></li>
-<li><a href="#v-famille-propriete">V: famille PROPRIÉTÉ</a></li>
-<li><a href="#w-famille-hydrographie">W: famille HYDROGRAPHIE</a></li>
-<li><a href="#x-famille-ouvrage-maritime">X: famille OUVRAGE MARITIME</a></li>
-<li><a href="#y-famille-sigt">Y: famille SIGT</a></li>
-<li><a href="#z-famille-habillage">Z: famille HABILLAGE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-a)" href="#a-famille-eau-potable">A: famille EAU POTABLE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-b)" href="#b-famille-eau-pluviale">B: famille EAU PLUVIALE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-c)" href="#c-famille-eau-usee">C: famille EAU USÉE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-d)" href="#d-famille-unitaire">D: famille UNITAIRE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-e)" href="#e-famille-chauffage">E: famille CHAUFFAGE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-f)" href="#f-famille-electricite">F: famille ELECTRICITÉ</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-g)" href="#g-famille-eclairage-public">G: famille ECLAIRAGE PUBLIC</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-h)" href="#h-famille-signalisation-verticale">H: famille SIGNALISATION VERTICALE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-i)" href="#i-famille-telecommunication">I: famille TÉLÉCOMMUNICATION</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-j)" href="#j-famille-gaz">J: famille GAZ</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-k)" href="#k-famille-indetermine">K: famille INDÉTERMINÉ</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-l)" href="#l-famille-voirie">L: famille VOIRIE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-m)" href="#m-famille-marquage-au-sol">M: famille MARQUAGE AU SOL</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-n)" href="#n-famille-mobilier-urbain">N: famille MOBILIER URBAIN</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-o)" href="#o-famille-nivellement">O: famille NIVELLEMENT</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-p)" href="#p-famille-voie-ferree">P: famille VOIE FERRÉE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-q)" href="#q-famille-transport">Q: famille TRANSPORT</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-r)" href="#r-famille-bati">R: famille BÂTI</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-s)" href="#s-famille-cloture">S: famille CLÔTURE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-t)" href="#t-famille-jardin">T: famille JARDIN</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-u)" href="#u-famille-amenagement-sportif">U: famille AMÉNAGEMENT SPORTIF</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-v)" href="#v-famille-propriete">V: famille PROPRIÉTÉ</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-w)" href="#w-famille-hydrographie">W: famille HYDROGRAPHIE</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-x)" href="#x-famille-ouvrage-maritime">X: famille OUVRAGE MARITIME</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-y)" href="#y-famille-sigt">Y: famille SIGT</a></li>
+<li><a class="toc-family" style="--family-color:var(--family-z)" href="#z-famille-habillage">Z: famille HABILLAGE</a></li>
 </ul></nav>
-<section class="family" id="a-famille-eau-potable">
-<h2>A: famille EAU POTABLE</h2>
+<section class="family family-a" id="a-famille-eau-potable" style="--family-color:var(--family-a)">
+<h2>A: famille EAU POTABLE <small>(#00BFFF)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <p>Néant</p>
@@ -119,8 +128,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="b-famille-eau-pluviale">
-<h2>B: famille EAU PLUVIALE</h2>
+<section class="family family-b" id="b-famille-eau-pluviale" style="--family-color:var(--family-b)">
+<h2>B: famille EAU PLUVIALE <small>(#0000FF)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -166,7 +175,7 @@
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
 <thead><tr><th>ID</th><th>Nature</th><th>Famille</th><th>Calques</th><th>PCRS</th><th>Image</th></tr></thead><tbody>
 <tr><td>BL_0101</td><td>Conduitre d&#x27;eau pluviale</td><td>Eau pluviale</td><td>EAUPL_SCT</td><td>Non concerné</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0101.jpg"><img loading="lazy" alt="BL_0101" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0101.jpg"></a></td></tr>
-<tr><td>BL_0069</td><td>Noue</td><td>Eau pluviale</td><td>EAUPL_SCS</td><td>HabillageLignes</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0108.jpg"><img loading="lazy" alt="BL_0069" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0108.jpg"></a></td></tr>
+<tr><td>BL_0069</td><td>Noue</td><td>Eau pluviale</td><td>EAUPL_SCS</td><td>HabillageLignes</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0069.jpg"><img loading="lazy" alt="BL_0069" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0069.jpg"></a></td></tr>
 <tr><td>BL_0102</td><td>Conduite galerie</td><td>Eau pluviale</td><td>EAUPL_SCT</td><td>Non concerné</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0102.jpg"><img loading="lazy" alt="BL_0102" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0102.jpg"></a></td></tr>
 <tr><td>BL_0103</td><td>Conduite indéterminée d&#x27;eau pluviale</td><td>Eau pluviale</td><td>EAUPL_SCT</td><td>Non concerné</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0103.jpg"><img loading="lazy" alt="BL_0103" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0103.jpg"></a></td></tr>
 <tr><td>BL_0104</td><td>Drain</td><td>Eau pluviale</td><td>EAUPL_SCT</td><td>Non concerné</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0104.jpg"><img loading="lazy" alt="BL_0104" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0104.jpg"></a></td></tr>
@@ -217,8 +226,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="c-famille-eau-usee">
-<h2>C: famille EAU USÉE</h2>
+<section class="family family-c" id="c-famille-eau-usee" style="--family-color:var(--family-c)">
+<h2>C: famille EAU USÉE <small>(#7F3F00)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -293,8 +302,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="d-famille-unitaire">
-<h2>D: famille UNITAIRE</h2>
+<section class="family family-d" id="d-famille-unitaire" style="--family-color:var(--family-d)">
+<h2>D: famille UNITAIRE <small>(#999900)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -355,8 +364,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="e-famille-chauffage">
-<h2>E: famille CHAUFFAGE</h2>
+<section class="family family-e" id="e-famille-chauffage" style="--family-color:var(--family-e)">
+<h2>E: famille CHAUFFAGE <small>(#FF00FF)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -421,8 +430,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="f-famille-electricite">
-<h2>F: famille ELECTRICITÉ</h2>
+<section class="family family-f" id="f-famille-electricite" style="--family-color:var(--family-f)">
+<h2>F: famille ELECTRICITÉ <small>(#FF0000)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -484,12 +493,12 @@
 <tr><td>FP_0411</td><td>Altitude supplémentaire</td><td>Electricité</td><td>ELECT_SCI</td><td>Non concerné</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0411.jpg"><img loading="lazy" alt="FP_0411" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0411.jpg"></a></td></tr>
 <tr><td>FP_0412</td><td>Texte information</td><td>Electricité</td><td>ELECT_SCI</td><td>Non concerné</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0412.jpg"><img loading="lazy" alt="FP_0412" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0412.jpg"></a></td></tr>
 <tr><td>FP_0413</td><td>Texte libre</td><td>Electricité</td><td>ELECT_SCI</td><td>HabillageTexte</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0413.jpg"><img loading="lazy" alt="FP_0413" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0413.jpg"></a></td></tr>
-<tr><td>FP_0414</td><td>Repérage de réseau</td><td>Electricité</td><td>ELECT_SCI</td><td>Non concerné</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0409.jpg"><img loading="lazy" alt="FP_0414" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0409.jpg"></a></td></tr>
+<tr><td>FP_0414</td><td>Repérage de réseau</td><td>Electricité</td><td>ELECT_SCI</td><td>Non concerné</td><td><a href="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0414.jpg"><img loading="lazy" alt="FP_0414" src="https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0414.jpg"></a></td></tr>
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="g-famille-eclairage-public">
-<h2>G: famille ECLAIRAGE PUBLIC</h2>
+<section class="family family-g" id="g-famille-eclairage-public" style="--family-color:var(--family-g)">
+<h2>G: famille ECLAIRAGE PUBLIC <small>(#FF7F00)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -549,8 +558,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="h-famille-signalisation-verticale">
-<h2>H: famille SIGNALISATION VERTICALE</h2>
+<section class="family family-h" id="h-famille-signalisation-verticale" style="--family-color:var(--family-h)">
+<h2>H: famille SIGNALISATION VERTICALE <small>(#FF3F00)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -618,8 +627,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="i-famille-telecommunication">
-<h2>I: famille TÉLÉCOMMUNICATION</h2>
+<section class="family family-i" id="i-famille-telecommunication" style="--family-color:var(--family-i)">
+<h2>I: famille TÉLÉCOMMUNICATION <small>(#00FF00)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -680,8 +689,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="j-famille-gaz">
-<h2>J: famille GAZ</h2>
+<section class="family family-j" id="j-famille-gaz" style="--family-color:var(--family-j)">
+<h2>J: famille GAZ <small>(#FFBF00)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <p>Néant</p>
@@ -743,8 +752,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="k-famille-indetermine">
-<h2>K: famille INDÉTERMINÉ</h2>
+<section class="family family-k" id="k-famille-indetermine" style="--family-color:var(--family-k)">
+<h2>K: famille INDÉTERMINÉ <small>(#000000)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <p>Néant</p>
@@ -794,8 +803,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="l-famille-voirie">
-<h2>L: famille VOIRIE</h2>
+<section class="family family-l" id="l-famille-voirie" style="--family-color:var(--family-l)">
+<h2>L: famille VOIRIE <small>(#000000)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -847,8 +856,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="m-famille-marquage-au-sol">
-<h2>M: famille MARQUAGE AU SOL</h2>
+<section class="family family-m" id="m-famille-marquage-au-sol" style="--family-color:var(--family-m)">
+<h2>M: famille MARQUAGE AU SOL <small>(#000000)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -892,8 +901,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="n-famille-mobilier-urbain">
-<h2>N: famille MOBILIER URBAIN</h2>
+<section class="family family-n" id="n-famille-mobilier-urbain" style="--family-color:var(--family-n)">
+<h2>N: famille MOBILIER URBAIN <small>(#5B5B5B)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -952,8 +961,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="o-famille-nivellement">
-<h2>O: famille NIVELLEMENT</h2>
+<section class="family family-o" id="o-famille-nivellement" style="--family-color:var(--family-o)">
+<h2>O: famille NIVELLEMENT <small>(#00CC33)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -991,8 +1000,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="p-famille-voie-ferree">
-<h2>P: famille VOIE FERRÉE</h2>
+<section class="family family-p" id="p-famille-voie-ferree" style="--family-color:var(--family-p)">
+<h2>P: famille VOIE FERRÉE <small>(#994C4C)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -1030,8 +1039,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="q-famille-transport">
-<h2>Q: famille TRANSPORT</h2>
+<section class="family family-q" id="q-famille-transport" style="--family-color:var(--family-q)">
+<h2>Q: famille TRANSPORT <small>(#CC0033)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -1097,8 +1106,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="r-famille-bati">
-<h2>R: famille BÂTI</h2>
+<section class="family family-r" id="r-famille-bati" style="--family-color:var(--family-r)">
+<h2>R: famille BÂTI <small>(#DF7FFF)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -1153,8 +1162,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="s-famille-cloture">
-<h2>S: famille CLÔTURE</h2>
+<section class="family family-s" id="s-famille-cloture" style="--family-color:var(--family-s)">
+<h2>S: famille CLÔTURE <small>(#CC00CC)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -1199,8 +1208,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="t-famille-jardin">
-<h2>T: famille JARDIN</h2>
+<section class="family family-t" id="t-famille-jardin" style="--family-color:var(--family-t)">
+<h2>T: famille JARDIN <small>(#33CC00)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -1253,8 +1262,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="u-famille-amenagement-sportif">
-<h2>U: famille AMÉNAGEMENT SPORTIF</h2>
+<section class="family family-u" id="u-famille-amenagement-sportif" style="--family-color:var(--family-u)">
+<h2>U: famille AMÉNAGEMENT SPORTIF <small>(#00FF7F)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -1288,8 +1297,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="v-famille-propriete">
-<h2>V: famille PROPRIÉTÉ</h2>
+<section class="family family-v" id="v-famille-propriete" style="--family-color:var(--family-v)">
+<h2>V: famille PROPRIÉTÉ <small>(#7F00FF)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -1336,8 +1345,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="w-famille-hydrographie">
-<h2>W: famille HYDROGRAPHIE</h2>
+<section class="family family-w" id="w-famille-hydrographie" style="--family-color:var(--family-w)">
+<h2>W: famille HYDROGRAPHIE <small>(#007FFF)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -1375,8 +1384,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="x-famille-ouvrage-maritime">
-<h2>X: famille OUVRAGE MARITIME</h2>
+<section class="family family-x" id="x-famille-ouvrage-maritime" style="--family-color:var(--family-x)">
+<h2>X: famille OUVRAGE MARITIME <small>(#000000)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -1427,8 +1436,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="y-famille-sigt">
-<h2>Y: famille SIGT</h2>
+<section class="family family-y" id="y-famille-sigt" style="--family-color:var(--family-y)">
+<h2>Y: famille SIGT <small>(#9966CC)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <div class="table-responsive"><table class="table table-bordered table-striped align-middle">
@@ -1475,8 +1484,8 @@
 </tbody></table></div>
 </section>
 </section>
-<section class="family" id="z-famille-habillage">
-<h2>Z: famille HABILLAGE</h2>
+<section class="family family-z" id="z-famille-habillage" style="--family-color:var(--family-z)">
+<h2>Z: famille HABILLAGE <small>(#000000)</small></h2>
 <section class="category">
 <h3>1. 1. Objets linéaires de surface</h3>
 <p>Néant</p>
