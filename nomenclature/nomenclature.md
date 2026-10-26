@@ -155,7 +155,7 @@ Néant
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
-| BL_0101 | Conduitre d'eau pluviale | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0101](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0101.jpg) |
+| BL_0101 | Conduite d'eau pluviale | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0101](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0101.jpg) |
 | BL_0069 | Noue | Eau pluviale | EAUPL_SCS | HabillageLignes | ![BL_0069](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0069.jpg) |
 | BL_0102 | Conduite galerie | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0102](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0102.jpg) |
 | BL_0103 | Conduite indéterminée d'eau pluviale | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0103](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0103.jpg) |
@@ -228,7 +228,7 @@ Néant
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
-| CL_0181 | Conduite eau usée | Eau usée | EAUUS_SCT | Non concerné | ![CL_0181](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CL_0181.jpg) |
+| CL_0181 | Conduite d'eau usée | Eau usée | EAUUS_SCT | Non concerné | ![CL_0181](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CL_0181.jpg) |
 | CL_0182 | Conduite galerie | Eau usée | EAUUS_SCT | Non concerné | ![CL_0182](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CL_0182.jpg) |
 | CL_0183 | Conduite indéterminée assainissement | Eau usée | EAUUS_SCT | Non concerné | ![CL_0183](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CL_0183.jpg) |
 | CL_0184 | Fourreau en attente | Eau usée | EAUUS_SCT | Non concerné | ![CL_0184](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CL_0184.jpg) |
@@ -596,7 +596,7 @@ Néant
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
-| IL_0661 | Nappe de foureau télécom | Télécommunication | TELEC_SCT | Non concerné | ![IL_0661](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IL_0661.jpg) |
+| IL_0661 | Nappe de fourreau télécom | Télécommunication | TELEC_SCT | Non concerné | ![IL_0661](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IL_0661.jpg) |
 | IL_0662 | Câble de transmission longue distance | Télécommunication | TELEC_SCT | Non concerné | ![IL_0662](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IL_0662.jpg) |
 | IL_0663 | Câble télécom Autorité Territoriale Compétente | Télécommunication | TELEC_SCT | Non concerné | ![IL_0663](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IL_0663.jpg) |
 | IL_0664 | Nappe de fourreau télécom Autorité Territoriale Compétente | Télécommunication | TELEC_SCT | Non concerné | ![IL_0664](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IL_0664.jpg) |
