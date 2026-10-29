@@ -786,7 +786,7 @@ Néant
 | ML_0861 | Bande cyclable | Marquage au sol | MARQU_SCS | HabillageLignes | ![ML_0861](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/ML_0861.jpg) |
 | ML_0862 | Passage piétons | Marquage au sol | MARQU_SCS | HabillageLignes | ![ML_0862](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/ML_0862.jpg) |
 | ML_2576 | Marquage bus | Marquage au sol | MARQU_SCS | HabillageLignes | ![ML_2576](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/ML_2576.jpg) |
-| ML_2577 | Divers marquage voirie | Marquage au sol | MARQU_SCS | HabillageLignes | ![ML_2577](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/MP_2577.jpg) |
+| ML_2577 | Divers marquage voirie | Marquage au sol | MARQU_SCS | HabillageLignes | ![ML_2577](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/ML_2577.jpg) |
 
 ### 2. Objets ponctuels de surface
 
