@@ -37,11 +37,11 @@ L’ensemble des objets du standard est détaillé ci-dessous par famille théma
 
 ## A: famille EAU POTABLE — couleur #00BFFF
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 Néant
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -59,7 +59,7 @@ Néant
 | AP_2000 | Forage, captage | Eau potable | EAUPO_SCS | AffleurantSymbole | ![AP_2000](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AP_2000.jpg) |
 | AP_0000 | Coffret | Eau potable | EAUPO_SCS | AffleurantSymbole | ![AP_0000](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AP_0000.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ Néant
 | AL_0022 | Canalisation eau potable sous fourreau | Eau potable | EAUPO_SCT | Non concerné | ![AL_0022](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AL_0022.jpg) |
 | AL_0023 | Fourreau en attente | Eau potable | EAUPO_SCT | Non concerné | ![AL_0023](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AL_0023.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -92,11 +92,11 @@ Néant
 | AP_2037 | Prise en charge | Eau potable | EAUPO_SCT | Non concerné | ![AP_2037](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AP_2037.jpg) |
 | AP_2038 | Piquage | Eau potable | EAUPO_SCT | Non concerné | ![AP_2038](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/A_Eau_potable/AP_2038.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -113,7 +113,7 @@ Néant
 
 ## B: famille EAU PLUVIALE — couleur #0000FF
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -125,8 +125,9 @@ Néant
 | BL_0066 | Busage fossé rectiligne | Eau pluviale | EAUPL_SCS | Non concerné | ![BL_0066](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0066.jpg) |
 | BL_0067 | Départ de busage | Eau pluviale | EAUPL_SCS | Non concerné | ![BL_0067](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0067.jpg) |
 | BL_0068 | Gargouille | Eau pluviale | EAUPL_SCS | AffleurantLignes | ![BL_0068](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0068.jpg) |
+| BL_0069 | Noue | Eau pluviale | EAUPL_SCS | HabillageLignes | ![BL_0069](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0069.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -151,12 +152,11 @@ Néant
 | BP_2058 | Descente de gouttière | Eau pluviale | EAUPL_SCS | AffleurantSymbole | ![BP_2058](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BP_2058.jpg) |
 | BP_2059 | Gargouille fil d'eau | Eau pluviale | EAUPL_SCS | AffleurantSymbole | ![BP_2059](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BP_2059.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | BL_0101 | Conduite d'eau pluviale | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0101](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0101.jpg) |
-| BL_0069 | Noue | Eau pluviale | EAUPL_SCS | HabillageLignes | ![BL_0069](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0069.jpg) |
 | BL_0102 | Conduite galerie | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0102](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0102.jpg) |
 | BL_0103 | Conduite indéterminée d'eau pluviale | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0103](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0103.jpg) |
 | BL_0104 | Drain | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0104](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0104.jpg) |
@@ -164,7 +164,7 @@ Néant
 | BL_0106 | Chambre de forme complexe | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0106](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0106.jpg) |
 | BL_0107 | Ouvrage annexe souterrain | Eau pluviale | EAUPL_SCT | Non concerné | ![BL_0107](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BL_0107.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -186,11 +186,11 @@ Néant
 | BP_2084 | Ventouse | Eau pluviale | EAUPL_SCT | Non concerné | ![BP_2084](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BP_2084.jpg) |
 | BP_2085 | Vidange | Eau pluviale | EAUPL_SCT | Non concerné | ![BP_2085](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/B_Eau_pluviale/BP_2085.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -205,13 +205,13 @@ Néant
 
 ## C: famille EAU USÉE — couleur #7F3F00
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | CL_0141 | Ouvrage annexe | Eau usée | EAUUS_SCS | AffleurantLignes | ![CL_0141](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CL_0141.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -224,7 +224,7 @@ Néant
 | CP_0167 | Armoire d'eau usée | Eau usée | EAUUS_SCS | AffleurantSymbole | ![CP_0167](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CP_0167.jpg) |
 | CP_2104 | Séparateur de graisse | Eau usée | EAUUS_SCS | AffleurantSymbole | ![CP_2104](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CP_2104.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -235,7 +235,7 @@ Néant
 | CL_0185 | Chambre de forme complexe | Eau usée | EAUUS_SCT | Non concerné | ![CL_0185](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CL_0185.jpg) |
 | CL_0186 | Ouvrage annexe souterrain | Eau usée | EAUUS_SCT | Non concerné | ![CL_0186](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CL_0186.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -257,11 +257,11 @@ Néant
 | CP_2134 | Piquage | Eau usée | EAUUS_SCT | Non concerné | ![CP_2134](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CP_2134.jpg) |
 | CP_2135 | Vanne | Eau usée | EAUUS_SCT | Non concerné | ![CP_2135](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/C_Eau_usee/CP_2135.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -275,13 +275,13 @@ Néant
 
 ## D: famille UNITAIRE — couleur #999900
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | DL_0221 | Ouvrage annexe | Unitaire | UNITA_SCS | AffleurantLignes | ![DL_0221](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/D_Unitaire/DL_0221.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -293,7 +293,7 @@ Néant
 | DP_0246 | Trappe rectangulaire unitaire | Unitaire | UNITA_SCS | AffleurantSymbole | ![DP_0246](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/D_Unitaire/DP_0246.jpg) |
 | DP_0247 | Armoire unitaire | Unitaire | UNITA_SCS | AffleurantSymbole | ![DP_0247](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/D_Unitaire/DP_0247.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -304,7 +304,7 @@ Néant
 | DL_0265 | Chambre de forme complexe | Unitaire | UNITA_SCT | Non concerné | ![DL_0265](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/D_Unitaire/DL_0265.jpg) |
 | DL_0266 | Ouvrage annexe souterrain | Unitaire | UNITA_SCT | Non concerné | ![DL_0266](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/D_Unitaire/DL_0266.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -316,11 +316,11 @@ Néant
 | DP_0286 | Cône de réduction | Unitaire | UNITA_SCT | Non concerné | ![DP_0286](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/D_Unitaire/DP_0286.jpg) |
 | DP_0287 | Changement de matériau | Unitaire | UNITA_SCT | Non concerné | ![DP_0287](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/D_Unitaire/DP_0287.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -331,13 +331,13 @@ Néant
 
 ## E: famille CHAUFFAGE — couleur #FF00FF
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | EL_0301 | Ouvrage spécial | Chauffage | CHAUF_SCS | AffleurantLignes | ![EL_0301](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/E_Chauffage/EL_0301.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -346,7 +346,7 @@ Néant
 | EP_0323 | Trappe rectangulaire de chauffage | Chauffage | CHAUF_SCS | AffleurantSymbole | ![EP_0323](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/E_Chauffage/EP_0323.jpg) |
 | EP_0324 | Tampon carré de chauffage | Chauffage | CHAUF_SCS | AffleurantSymbole | ![EP_0324](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/E_Chauffage/EP_0324.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -357,7 +357,7 @@ Néant
 | EL_0345 | Fourreau de chauffage | Chauffage | CHAUF_SCT | Non concerné | ![EL_0345](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/E_Chauffage/EL_0345.jpg) |
 | EL_0346 | Chambre de forme complexe | Chauffage | CHAUF_SCT | Non concerné | ![EL_0346](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/E_Chauffage/EL_0346.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -374,11 +374,11 @@ Néant
 | EP_2227 | Coude | Chauffage | CHAUF_SCT | Non concerné | ![EP_2227](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/E_Chauffage/EP_2227.jpg) |
 | EP_2228 | Manchette/manchon | Chauffage | CHAUF_SCT | Non concerné | ![EP_2228](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/E_Chauffage/EP_2228.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -391,14 +391,14 @@ Néant
 
 ## F: famille ELECTRICITÉ — couleur #FF0000
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | FL_0381 | Ouvrage annexe | Electricité | ELECT_SCS | AffleurantLignes | ![FL_0381](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FL_0381.jpg) |
 | FL_0382 | Ligne aérienne | Electricité | ELECT_SCS | HabillageLignes | ![FL_0382](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FL_0382.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -413,7 +413,7 @@ Néant
 | FP_0409 | Chambre électrique | Electricité | ELECT_SCS | AffleurantSymbole | ![FP_0409](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0409.jpg) |
 | FP_0415 | Borne de recharge électrique | Electricité | ELECT_SCS | AffleurantSymbole | ![FP_0415](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0415.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -427,7 +427,7 @@ Néant
 | FL_0428 | Câble indéfini sous fourreau | Electricité | ELECT_SCT | Non concerné | ![FL_0428](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FL_0428.jpg) |
 | FL_0429 | Fourreau en attente | Electricité | ELECT_SCT | Non concerné | ![FL_0429](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FL_0429.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -436,11 +436,11 @@ Néant
 | FP_0443 | Chambre circulaire | Electricité | ELECT_SCT | Non concerné | ![FP_0443](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0443.jpg) |
 | FP_0444 | Extrémité de réseau | Electricité | ELECT_SCT | Non concerné | ![FP_0444](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/F_Electricite/FP_0444.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -452,14 +452,14 @@ Néant
 
 ## G: famille ECLAIRAGE PUBLIC — couleur #FF7F00
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | GL_0461 | Ouvrage annexe | Eclairage public | ECPUB_SCS | AffleurantLignes | ![GL_0461](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/G_Eclairage_public/GL_0461.jpg) |
 | GL_0462 | Ligne aérienne | Eclairage public | ECPUB_SCS | HabillageLignes | ![GL_0462](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/G_Eclairage_public/GL_0462.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -473,7 +473,7 @@ Néant
 | GP_0488 | Borne alimentation d'éclairage | Eclairage public | ECPUB_SCS | AffleurantSymbole | ![GP_0488](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/G_Eclairage_public/GP_0488.jpg) |
 | GP_0489 | Pylône d'éclairage | Eclairage public | ECPUB_SCS | AffleurantSymbole | ![GP_0489](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/G_Eclairage_public/GP_0489.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -483,7 +483,7 @@ Néant
 | GL_0504 | Câble HT Eclairage public sous fourreau | Eclairage public | ECPUB_SCT | Non concerné | ![GL_0504](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/G_Eclairage_public/GL_0504.jpg) |
 | GL_0505 | Fourreau vide Eclairage public | Eclairage public | ECPUB_SCT | Non concerné | ![GL_0505](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/G_Eclairage_public/GL_0505.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -492,11 +492,11 @@ Néant
 | GP_0523 | Chambre circulaire | Eclairage public | ECPUB_SCT | Non concerné | ![GP_0523](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/G_Eclairage_public/GP_0523.jpg) |
 | GP_0524 | Extrémité de réseau | Eclairage public | ECPUB_SCT | Non concerné | ![GP_0524](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/G_Eclairage_public/GP_0524.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -507,14 +507,14 @@ Néant
 
 ## H: famille SIGNALISATION VERTICALE — couleur #FF3F00
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | HL_0541 | Ouvrage annexe | Signalisation verticale | SIGNV_SCS | AffleurantLignes | ![HL_0541](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/H_Signalisation_verticale/HL_0541.jpg) |
 | HL_0542 | Ligne aérienne | Signalisation verticale | SIGNV_SCS | HabillageLignes | ![HL_0542](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/H_Signalisation_verticale/HL_0542.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -530,7 +530,7 @@ Néant
 | HP_0570 | Panneau de signalisation double | Signalisation verticale | SIGNV_SCS | HabillageSymbole | ![HP_0570](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/H_Signalisation_verticale/HP_0570.jpg) |
 | HP_0575 | Panneau à message variable | Signalisation verticale | SIGNV_SCS | HabillageSymbole | ![HP_0575](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/H_Signalisation_verticale/HP_0575.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -543,7 +543,7 @@ Néant
 | HL_0587 | TBT autre sous fourreau | Signalisation verticale | SIGNV_SCT | Non concerné | ![HL_0587](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/H_Signalisation_verticale/HL_0587.jpg) |
 | HL_0588 | Fourreau vide SL | Signalisation verticale | SIGNV_SCT | Non concerné | ![HL_0588](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/H_Signalisation_verticale/HL_0588.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -555,11 +555,11 @@ Néant
 | HP_0606 | Boucle de détection chevron | Signalisation verticale | SIGNV_SCT | Non concerné | ![HP_0606](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/H_Signalisation_verticale/HP_0606.jpg) |
 | HP_0607 | Extrémité de conduite | Signalisation verticale | SIGNV_SCT | Non concerné | ![HP_0607](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/H_Signalisation_verticale/HP_0607.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -570,14 +570,14 @@ Néant
 
 ## I: famille TÉLÉCOMMUNICATION — couleur #00FF00
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | IL_0621 | Ouvrage annexe | Télécommunication | TELEC_SCS | AffleurantLignes | ![IL_0621](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IL_0621.jpg) |
 | IL_0622 | Ligne aérienne | Télécommunication | TELEC_SCS | HabillageLignes | ![IL_0622](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IL_0622.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -592,7 +592,7 @@ Néant
 | IP_0649 | Aération rectangle télécom | Télécommunication | TELEC_SCS | HabillageSymbole | ![IP_0649](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IP_0649.jpg) |
 | IP_0650 | Boîte aux lettres | Télécommunication | TELEC_SCS | HabillageSymbole | ![IP_0650](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IP_0650.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -603,7 +603,7 @@ Néant
 | IL_0665 | Chambre de forme complexe | Télécommunication | TELEC_SCT | Non concerné | ![IL_0665](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IL_0665.jpg) |
 | IL_0666 | Fourreau en attente | Télécommunication | TELEC_SCT | Non concerné | ![IL_0666](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IL_0666.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -611,11 +611,11 @@ Néant
 | IP_0682 | Citerneau circulaire | Télécommunication | TELEC_SCT | Non concerné | ![IP_0682](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IP_0682.jpg) |
 | IP_0683 | Extrémité de conduite | Télécommunication | TELEC_SCT | Non concerné | ![IP_0683](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/I_Telecommunication/IP_0683.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -626,11 +626,11 @@ Néant
 
 ## J: famille GAZ — couleur #FFBF00
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 Néant
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -641,7 +641,7 @@ Néant
 | JP_0705 | Armoire gaz | Gaz | GAZFL_SCS | AffleurantSymbole | ![JP_0705](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/J_Gaz/JP_0705.jpg) |
 | JP_0706 | Trappe d'accès gaz | Gaz | GAZFL_SCS | AffleurantSymbole | ![JP_0706](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/J_Gaz/JP_0706.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -655,7 +655,7 @@ Néant
 | JL_0728 | Conduite de gaz type indéfini sous fourreau | Gaz | GAZFL_SCT | Non concerné | ![JL_0728](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/J_Gaz/JL_0728.jpg) |
 | JL_0729 | Fourreau en attente | Gaz | GAZFL_SCT | Non concerné | ![JL_0729](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/J_Gaz/JL_0729.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -667,11 +667,11 @@ Néant
 | JP_0746 | Extrémité de conduite | Gaz | GAZFL_SCT | Non concerné | ![JP_0746](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/J_Gaz/JP_0746.jpg) |
 | JP_0747 | Changement de matériau | Gaz | GAZFL_SCT | Non concerné | ![JP_0747](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/J_Gaz/JP_0747.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -684,11 +684,11 @@ Néant
 
 ## K: famille INDÉTERMINÉ — couleur #000000
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 Néant
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -702,7 +702,7 @@ Néant
 | KP_0768 | Armoire multi-réseaux | Indéterminé | INDET_SCS | AffleurantSymbole | ![KP_0768](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/K_Indetermine/KP_0768.jpg) |
 | KP_0769 | Coffret multi-réseaux (hors gaz+élec) | Indéterminé | INDET_SCS | AffleurantSymbole | ![KP_0769](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/K_Indetermine/KP_0769.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -712,17 +712,17 @@ Néant
 | KL_0784 | Caniveau galerie technique | Indéterminé | INDET_SCT | Non concerné | ![KL_0784](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/K_Indetermine/KL_0784.jpg) |
 | KL_0785 | Chambre de forme complexe | Indéterminé | INDET_SCT | Non concerné | ![KL_0785](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/K_Indetermine/KL_0785.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | KP_0801 | Chambre multi-réseaux | Indéterminé | INDET_SCT | Non concerné | ![KP_0801](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/K_Indetermine/KP_0801.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -730,7 +730,7 @@ Néant
 
 ## L: famille VOIRIE — couleur #000000
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -745,12 +745,12 @@ Néant
 | LL_0828 | Bande d'éveil de vigilance | Voirie | VOIRI_SCS | HabillageEnveloppe | ![LL_0828](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/L_Voirie/LL_0828.jpg) |
 | LL_0829 | Bord de chaussée | Voirie | VOIRI_SCS | LimiteVoirie | ![LL_0829](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/L_Voirie/LL_0829.jpg) |
 | LL_0830 | Bordure anti-stationnement | Voirie | VOIRI_SCS | HabillageLignes | ![LL_0830](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/L_Voirie/LL_0830.jpg) |
-| LL_2554 | Bordure haute | Voirie | VOIRI_SCS | LimiteVoirie | ![LL_2554](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/L_Voirie/LL_2553.jpg) |
+| LL_2554 | Bordure haute | Voirie | VOIRI_SCS | LimiteVoirie | ![LL_2554](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/L_Voirie/LL_2554.jpg) |
 | LL_2551 | Pont en surplomb, tunnel | Voirie | VOIRI_SCS | HabillageLignes | ![LL_2551](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/L_Voirie/LL_2551.jpg) |
 | LL_2552 | Passerelle en surplomb | Voirie | VOIRI_SCS | HabillageLignes | ![LL_2552](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/L_Voirie/LL_2552.jpg) |
 | LL_2553 | Pilier de pont, d'ouvrage | Voirie | VOIRI_SCS | PilePont | ![LL_2553](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/L_Voirie/LL_2553.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -759,19 +759,19 @@ Néant
 | LP_0843 | Borne de voirie <= 0.20 | Voirie | VOIRI_SCS | HabillageSymbole | ![LP_0843](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/L_Voirie/LP_0843.jpg) |
 | LP_0844 | Borne de voirie > 0.20 | Voirie | VOIRI_SCS | HabillageSymbole | ![LP_0844](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/L_Voirie/LP_0844.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -779,16 +779,16 @@ Néant
 
 ## M: famille MARQUAGE AU SOL — couleur #000000
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | ML_0861 | Bande cyclable | Marquage au sol | MARQU_SCS | HabillageLignes | ![ML_0861](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/ML_0861.jpg) |
 | ML_0862 | Passage piétons | Marquage au sol | MARQU_SCS | HabillageLignes | ![ML_0862](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/ML_0862.jpg) |
-| ML_2576 | Marquage bus | Marquage au sol | MARQU_SCS | HabillageLignes | ![ML_2576](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/MP_2576.jpg) |
+| ML_2576 | Marquage bus | Marquage au sol | MARQU_SCS | HabillageLignes | ![ML_2576](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/ML_2576.jpg) |
 | ML_2577 | Divers marquage voirie | Marquage au sol | MARQU_SCS | HabillageLignes | ![ML_2577](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/MP_2577.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -800,19 +800,19 @@ Néant
 | MP_2583 | Symbole cheminement piétons | Marquage au sol | MARQU_SCS | HabillageSymbole | ![MP_2583](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/MP_2583.jpg) |
 | MP_2584 | Symbole handicapés | Marquage au sol | MARQU_SCS | HabillageSymbole | ![MP_2584](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/M_Marquage_au_sol/MP_2584.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -820,14 +820,14 @@ Néant
 
 ## N: famille MOBILIER URBAIN — couleur #5B5B5B
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | NL_0901 | Ouvrage annexe | Mobilier urbain | MOBUR_SCS | HabillageLignes | ![NL_0901](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/N_Mobilier_urbain/NL_0901.jpg) |
 | NL_0902 | Rambarde de protection | Mobilier urbain | MOBUR_SCS | HabillageLignes | ![NL_0902](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/N_Mobilier_urbain/NL_0902.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -856,19 +856,19 @@ Néant
 | NP_2607 | Jardinière ronde | Mobilier urbain | MOBUR_SCS | HabillageSymbole | ![NP_2607](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/N_Mobilier_urbain/NP_2607.jpg) |
 | NP_2608 | Jardinière hexagonale | Mobilier urbain | MOBUR_SCS | HabillageSymbole | ![NP_2608](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/N_Mobilier_urbain/NP_2608.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -876,7 +876,7 @@ Néant
 
 ## O: famille NIVELLEMENT — couleur #00CC33
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -884,26 +884,26 @@ Néant
 | OL_0942 | Pied de talus | Nivellement | NIVEL_SCS | HabillageLignes | ![OL_0942](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/O_Nivellement/OL_0942.jpg) |
 | OL_0943 | Haut de talus | Nivellement | NIVEL_SCS | HabillageLignes | ![OL_0943](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/O_Nivellement/OL_0943.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | OP_0961 | Piézomètre | Nivellement | NIVEL_SCS | HabillageSymbole | ![OP_0961](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/O_Nivellement/OP_0961.jpg) |
 | OP_0962 | Sondage | Nivellement | NIVEL_SCS | HabillageSymbole | ![OP_0962](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/O_Nivellement/OP_0962.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -911,7 +911,7 @@ Néant
 
 ## P: famille VOIE FERRÉE — couleur #994C4C
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -920,25 +920,25 @@ Néant
 | PL_0983 | Voie levée en axe | Voie ferrée | VOIEF_SCS | Rail | ![PL_0983](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/P_Voie_ferree/PL_0983.jpg) |
 | PL_0984 | Caniveau câbles | Voie ferrée | VOIEF_SCS | HabillageLignes | ![PL_0984](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/P_Voie_ferree/PL_0984.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | PP_1001 | Barrière passage à niveau | Voie ferrée | VOIEF_SCS | HabillageSymbole | ![PP_1001](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/P_Voie_ferree/PP_1001.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -946,14 +946,14 @@ Néant
 
 ## Q: famille TRANSPORT — couleur #CC0033
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | QL_1021 | Ouvrage annexe | Transport | TRANS_SCS | HabillageLignes | ![QL_1021](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QL_1021.jpg) |
 | QL_1022 | Tablier viaduc passerelle | Transport | TRANS_SCS | HabillageLignes | ![QL_1022](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QL_1022.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -969,7 +969,7 @@ Néant
 | QP_1054 | Armoire de commande rectangulaire | Transport | TRANS_SCS | HabillageSymbole | ![QP_1054](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1054.jpg) |
 | QP_1055 | Poteau transport urbain | Transport | TRANS_SCS | HabillageSymbole | ![QP_1055](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1055.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -982,7 +982,7 @@ Néant
 | QL_1067 | Câble de terre sous fourreau | Transport | TRANS_SCT | Non concerné | ![QL_1067](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QL_1067.jpg) |
 | QL_1068 | Fourreau en attente | Transport | TRANS_SCT | Non concerné | ![QL_1068](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QL_1068.jpg) |
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -992,11 +992,11 @@ Néant
 | QP_1084 | Chambre rectangulaire | Transport | TRANS_SCT | Non concerné | ![QP_1084](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1084.jpg) |
 | QP_1085 | Extrémité de conduite | Transport | TRANS_SCT | Non concerné | ![QP_1085](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Q_Transport/QP_1085.jpg) |
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1007,7 +1007,7 @@ Néant
 
 ## R: famille BÂTI — couleur #DF7FFF
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1023,7 +1023,7 @@ Néant
 | RL_1110 | Escalier complexe | Bâti | BATIM_SCS | MarcheEscalier | ![RL_1110](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RL_1110.jpg) |
 | RL_1111 | Soubassement | Bâti | BATIM_SCS | ProeminenceBati | ![RL_1111](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RL_1111.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1039,19 +1039,19 @@ Néant
 | RP_2726 | Calvaire | Bâti | BATIM_SCS | HabillageSymbole | ![RP_2726](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RP_2726.jpg) |
 | RP_2727 | Croix | Bâti | BATIM_SCS | HabillageSymbole | ![RP_2727](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/R_Bati/RP_2727.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1059,49 +1059,49 @@ Néant
 
 ## S: famille CLÔTURE — couleur #CC00CC
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
-| SL_1141 | Ouvrage annexe | Clôture | CLOTU_SCS | HabillageLignes | ![SL_1141](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SL_1141.jpg) |
-| SL_1142 | Clôture légère levée par le coté | Clôture | CLOTU_SCS | Mur | ![SL_1142](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SL_1142.jpg) |
-| SL_1143 | Mur de plaques | Clôture | CLOTU_SCS | Mur | ![SL_1143](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SL_1143.jpg) |
-| SL_1144 | Mur h>1.10m | Clôture | CLOTH_SCS | Non concerné | ![SL_1144](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SL_1144.jpg) |
-| SL_1144 | Mur h>1.10m | Clôture | CLOTU_SCS | Mur | ![SL_1144](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SL_1144.jpg) |
-| SL_1145 | Mur de soutènement | Clôture | CLOTH_SCS | Non concerné | ![SL_1145](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SL_1145.jpg) |
-| SL_1145 | Mur de soutènement | Clôture | CLOTU_SCS | Mur | ![SL_1145](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SL_1145.jpg) |
-| SL_1146 | Mur h<1.10m | Clôture | CLOTU_SCS | Mur | ![SL_1146](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SL_1146.jpg) |
+| SL_1141 | Ouvrage annexe | Clôture | CLOTU_SCS | HabillageLignes | ![SL_1141](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SL_1141.jpg) |
+| SL_1142 | Clôture légère levée par le coté | Clôture | CLOTU_SCS | Mur | ![SL_1142](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SL_1142.jpg) |
+| SL_1143 | Mur de plaques | Clôture | CLOTU_SCS | Mur | ![SL_1143](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SL_1143.jpg) |
+| SL_1144 | Mur h>1.10m | Clôture | CLOTH_SCS | Non concerné | ![SL_1144](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SL_1144.jpg) |
+| SL_1144 | Mur h>1.10m | Clôture | CLOTU_SCS | Mur | ![SL_1144](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SL_1144.jpg) |
+| SL_1145 | Mur de soutènement | Clôture | CLOTH_SCS | Non concerné | ![SL_1145](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SL_1145.jpg) |
+| SL_1145 | Mur de soutènement | Clôture | CLOTU_SCS | Mur | ![SL_1145](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SL_1145.jpg) |
+| SL_1146 | Mur h<1.10m | Clôture | CLOTU_SCS | Mur | ![SL_1146](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SL_1146.jpg) |
 
-### 2. 2. Objets ponctuels de surface
-
-| ID | Nature | Famille | Calques | PCRS | Image |
-| --- | --- | --- | --- | --- | --- |
-| SP_1161 | Portail - portillon | Clôture | CLOTU_SCS | Seuil | ![SP_1161](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SP_1161.jpg) |
-| SP_1162 | Pilier carré clôture | Clôture | CLOTU_SCS | PilierRegulier | ![SP_1162](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SP_1162.jpg) |
-| SP_1163 | Pilier rectangulaire clôture | Clôture | CLOTU_SCS | PilierRegulier | ![SP_1163](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SP_1163.jpg) |
-| SP_1164 | Pilier circulaire clôture | Clôture | CLOTU_SCS | PilierRegulier | ![SP_1164](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SP_1164.jpg) |
-
-### 3. 3. Objets linéaires de sous-sol
-
-Néant
-
-### 4. 4. Objets ponctuels de sous-sol
-
-Néant
-
-### 5. 5. Objets linéaires d'information
-
-Néant
-
-### 6. 6. Objets ponctuels d'information
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
-| SP_1165 | Texte libre | Clôture | CLOTU_SCI | HabillageTexte | ![SP_1165](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Clôture/SP_1165.jpg) |
+| SP_1161 | Portail - portillon | Clôture | CLOTU_SCS | Seuil | ![SP_1161](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SP_1161.jpg) |
+| SP_1162 | Pilier carré clôture | Clôture | CLOTU_SCS | PilierRegulier | ![SP_1162](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SP_1162.jpg) |
+| SP_1163 | Pilier rectangulaire clôture | Clôture | CLOTU_SCS | PilierRegulier | ![SP_1163](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SP_1163.jpg) |
+| SP_1164 | Pilier circulaire clôture | Clôture | CLOTU_SCS | PilierRegulier | ![SP_1164](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SP_1164.jpg) |
+
+### 3. Objets linéaires de sous-sol
+
+Néant
+
+### 4. Objets ponctuels de sous-sol
+
+Néant
+
+### 5. Objets linéaires d'information
+
+Néant
+
+### 6. Objets ponctuels d'information
+
+| ID | Nature | Famille | Calques | PCRS | Image |
+| --- | --- | --- | --- | --- | --- |
+| SP_1165 | Texte libre | Clôture | CLOTU_SCI | HabillageTexte | ![SP_1165](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/S_Cloture/SP_1165.jpg) |
 
 ## T: famille JARDIN — couleur #33CC00
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1115,7 +1115,7 @@ Néant
 | TL_2776 | Friche | Jardin | JARDI_SCS | HabillageLignes | ![TL_2776](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/T_Jardin/TL_2776.jpg) |
 | TL_2777 | Pelouse | Jardin | JARDH_SCS | HabillageEnveloppe | ![TL_2777](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/T_Jardin/TL_2777.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1131,19 +1131,19 @@ Néant
 | TP_2778 | Palmier | Jardin | JARDI_SCS | Arbre | ![TP_2778](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/T_Jardin/TP_2778.jpg) |
 | TP_2779 | Arbuste | Jardin | JARDI_SCS | Arbre | ![TP_2779](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/T_Jardin/TP_2779.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1151,7 +1151,7 @@ Néant
 
 ## U: famille AMÉNAGEMENT SPORTIF — couleur #00FF7F
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1159,23 +1159,23 @@ Néant
 | UL_1222 | Marquage au sol | Aménagement sportif | AMENA_SCS | HabillageLignes | ![UL_1222](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/U_Amenagement_sportif/UL_1222.jpg) |
 | UL_1223 | Lice de protection | Aménagement sportif | AMENA_SCS | HabillageLignes | ![UL_1223](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/U_Amenagement_sportif/UL_1223.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 Néant
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1183,7 +1183,7 @@ Néant
 
 ## V: famille PROPRIÉTÉ — couleur #7F00FF
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1195,7 +1195,7 @@ Néant
 | VL_2827 | Limite nouvelle, division | Propriété | PROPR_SCS | HabillageLignes | ![VL_2827](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/V_Propriete/VL_2827.jpg) |
 | VL_2828 | Application graphique cadastrale | Propriété | PROPR_SCS | HabillageLignes | ![VL_2828](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/V_Propriete/VL_2828.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1207,19 +1207,19 @@ Néant
 | VP_2832 | Appartenance bâtiment | Propriété | PROPR_SCS | HabillageSymbole | ![VP_2832](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/V_Propriete/VP_2832.jpg) |
 | VP_2833 | Flèche de cotation | Propriété | PROPR_SCS | HabillageSymbole | ![VP_2833](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/V_Propriete/VP_2833.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1227,7 +1227,7 @@ Néant
 
 ## W: famille HYDROGRAPHIE — couleur #007FFF
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1239,23 +1239,23 @@ Néant
 | WL_1306 | Palplanche | Hydrographie | HYDRO_SCS | HabillageLignes | ![WL_1306](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/W_Hydrographie/WL_1306.jpg) |
 | WL_1307 | Palplanche couronnée | Hydrographie | HYDRO_SCS | HabillageLignes | ![WL_1307](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/W_Hydrographie/WL_1307.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 Néant
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1263,7 +1263,7 @@ Néant
 
 ## X: famille OUVRAGE MARITIME — couleur #000000
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1275,7 +1275,7 @@ Néant
 | XL_1346 | Rideau de palplanches | Ouvrage maritime | OUVRA_SCS | HabillageLignes | ![XL_1346](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/X_Ouvrage_maritime/XL_1346.jpg) |
 | XL_1347 | Bord de quai | Ouvrage maritime | OUVRA_SCS | QuaiFluvioMaritime | ![XL_1347](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/X_Ouvrage_maritime/XL_1347.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1291,19 +1291,19 @@ Néant
 | XP_1370 | Défense bois | Ouvrage maritime | OUVRA_SCS | HabillageSymbole | ![XP_1370](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/X_Ouvrage_maritime/XP_1370.jpg) |
 | XP_1371 | Ancrage défense | Ouvrage maritime | OUVRA_SCS | HabillageSymbole | ![XP_1371](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/X_Ouvrage_maritime/XP_1371.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1311,14 +1311,14 @@ Néant
 
 ## Y: famille SIGT — couleur #9966CC
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | YL_2901 | Cheminement topo | SIGT | SIGTS_SCS | HabillageLignes | ![YL_2901](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Y_SIGT/YL_2901.jpg) |
 | YL_2902 | Courbes de niveau | SIGT | SIGTO_SCS | HabillageLignes | ![YL_2902](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Y_SIGT/YL_2902.jpg) |
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1333,19 +1333,19 @@ Néant
 | YP_2912 | Repère NGF(IGN69), IGN, DGFip | SIGT | SIGTR_SCS | HabillageSymbole | ![YP_2912](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Y_SIGT/YP_2912.jpg) |
 | YP_2913 | Borne IGN | SIGT | SIGTR_SCS | HabillageSymbole | ![YP_2913](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Y_SIGT/YP_2913.jpg) |
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 Néant
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
@@ -1355,30 +1355,30 @@ Néant
 
 ## Z: famille HABILLAGE — couleur #000000
 
-### 1. 1. Objets linéaires de surface
+### 1. Objets linéaires de surface
 
 Néant
 
-### 2. 2. Objets ponctuels de surface
+### 2. Objets ponctuels de surface
 
 Néant
 
-### 3. 3. Objets linéaires de sous-sol
+### 3. Objets linéaires de sous-sol
 
 Néant
 
-### 4. 4. Objets ponctuels de sous-sol
+### 4. Objets ponctuels de sous-sol
 
 Néant
 
-### 5. 5. Objets linéaires d'information
+### 5. Objets linéaires d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
 | ZL_1541 | Cartouche, carroyage | Habillage | CARTO_SCI | Non concerné | ![ZL_1541](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Z_Habillage/ZL_1541.jpg) |
 | ZL_1542 | Emprise des plans | Habillage | CARTO_SCI | Non concerné | ![ZL_1542](https://raw.githubusercontent.com/geobretagne/standard-topographique/main/nomenclature/img/Z_Habillage/ZL_1542.jpg) |
 
-### 6. 6. Objets ponctuels d'information
+### 6. Objets ponctuels d'information
 
 | ID | Nature | Famille | Calques | PCRS | Image |
 | --- | --- | --- | --- | --- | --- |
